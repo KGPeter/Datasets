@@ -1,0 +1,418 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,
+KEN,1970-01-01,1970-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1970,1970,LCU,1.7486746190,E
+KEN,1971-01-01,1971-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1971,1971,LCU,1.8195944500,E
+KEN,1972-01-01,1972-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1972,1972,LCU,1.9425857610,E
+KEN,1973-01-01,1973-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1973,1973,LCU,2.1407744670,E
+KEN,1974-01-01,1974-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1974,1974,LCU,2.4731871050,E
+KEN,1975-01-01,1975-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1975,1975,LCU,2.8015290430,E
+KEN,1976-01-01,1976-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1976,1976,LCU,3.2705028950,E
+KEN,1977-01-01,1977-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1977,1977,LCU,3.8301981230,E
+KEN,1978-01-01,1978-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1978,1978,LCU,3.8857407720,E
+KEN,1979-01-01,1979-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1979,1979,LCU,4.1542990210,E
+KEN,1980-01-01,1980-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1980,1980,LCU,4.5485089540,E
+KEN,1981-01-01,1981-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1981,1981,LCU,5.0404121680,E
+KEN,1982-01-01,1982-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1982,1982,LCU,5.6523312100,E
+KEN,1983-01-01,1983-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1983,1983,LCU,6.3186177970,E
+KEN,1984-01-01,1984-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1984,1984,LCU,6.9617515680,E
+KEN,1985-01-01,1985-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1985,1985,LCU,7.5389331640,E
+KEN,1986-01-01,1986-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1986,1986,LCU,8.1939273270,E
+KEN,1987-01-01,1987-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1987,1987,LCU,8.6365303070,E
+KEN,1988-01-01,1988-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1988,1988,LCU,9.3750820420,E
+KEN,1989-01-01,1989-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1989,1989,LCU,10.1616407100,E
+KEN,1990-01-01,1990-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1990,1990,LCU,11.1114397600,E
+KEN,1991-01-01,1991-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1991,1991,LCU,12.3985897000,E
+KEN,1992-01-01,1992-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1992,1992,LCU,14.4691996400,E
+KEN,1993-01-01,1993-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1993,1993,LCU,18.0208161700,E
+KEN,1994-01-01,1994-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1994,1994,LCU,21.5924975500,E
+KEN,1995-01-01,1995-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1995,1995,LCU,24.4416047000,E
+KEN,1996-01-01,1996-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1996,1996,LCU,26.6697626600,E
+KEN,1997-01-01,1997-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1997,1997,LCU,29.7751854500,E
+KEN,1998-01-01,1998-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1998,1998,LCU,31.8414555600,E
+KEN,1999-01-01,1999-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",1999,1999,LCU,33.1740967400,E
+KEN,2000-01-01,2000-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2000,2000,LCU,35.2115006200,E
+KEN,2001-01-01,2001-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2001,2001,LCU,35.8084905700,E
+KEN,2002-01-01,2002-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2002,2002,LCU,36.1494417400,E
+KEN,2003-01-01,2003-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2003,2003,LCU,38.3905395100,E
+KEN,2004-01-01,2004-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2004,2004,LCU,41.1267556500,E
+KEN,2005-01-01,2005-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2005,2005,LCU,43.1427476300,E
+KEN,2006-01-01,2006-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2006,2006,LCU,46.5009886600,E
+KEN,2007-01-01,2007-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2007,2007,LCU,50.2816237500,E
+KEN,2008-01-01,2008-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2008,2008,LCU,57.9005194300,E
+KEN,2009-01-01,2009-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2009,2009,LCU,64.6368863000,E
+KEN,2010-01-01,2010-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2010,2010,LCU,65.9902521000,E
+KEN,2011-01-01,2011-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2011,2011,LCU,73.1116825300,E
+KEN,2012-01-01,2012-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2012,2012,LCU,79.9715893400,E
+KEN,2013-01-01,2013-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2013,2013,LCU,84.1027921200,E
+KEN,2014-01-01,2014-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2014,2014,LCU,90.8884498300,E
+KEN,2015-01-01,2015-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2015,2015,LCU,100.0000000000,E
+KEN,2016-01-01,2016-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2016,2016,LCU,105.8496289000,E
+KEN,2017-01-01,2017-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2017,2017,LCU,113.9399838000,E
+KEN,2018-01-01,2018-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2018,2018,LCU,118.7217872000,E
+KEN,2019-01-01,2019-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2019,2019,LCU,124.1713438000,E
+KEN,2020-01-01,2020-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2020,2020,LCU,130.6058660000,E
+KEN,2021-01-01,2021-12-31,114,'404,Kenya,22024,GDP Deflator,6180,"Value Local Currency, 2015 prices",2021,2021,LCU,135.8521583000,E
+KEN,1970-01-01,1970-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1970,1970,US$,24.0354940900,E
+KEN,1971-01-01,1971-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1971,1971,US$,25.0102856300,E
+KEN,1972-01-01,1972-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1972,1972,US$,26.7007984800,E
+KEN,1973-01-01,1973-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1973,1973,US$,29.9382392000,E
+KEN,1974-01-01,1974-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1974,1974,US$,34.0322513600,E
+KEN,1975-01-01,1975-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1975,1975,US$,37.4564274600,E
+KEN,1976-01-01,1976-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1976,1976,US$,38.3754453700,E
+KEN,1977-01-01,1977-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1977,1977,US$,45.4346841900,E
+KEN,1978-01-01,1978-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1978,1978,US$,49.3565919300,E
+KEN,1979-01-01,1979-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1979,1979,US$,54.5613089100,E
+KEN,1980-01-01,1980-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1980,1980,US$,60.1825188500,E
+KEN,1981-01-01,1981-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1981,1981,US$,54.6957681100,E
+KEN,1982-01-01,1982-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1982,1982,US$,50.8076014900,E
+KEN,1983-01-01,1983-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1983,1983,US$,46.6026627900,E
+KEN,1984-01-01,1984-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1984,1984,US$,47.4191708600,E
+KEN,1985-01-01,1985-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1985,1985,US$,45.0435456900,E
+KEN,1986-01-01,1986-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1986,1986,US$,49.5796819700,E
+KEN,1987-01-01,1987-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1987,1987,US$,51.5312903500,E
+KEN,1988-01-01,1988-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1988,1988,US$,51.8637442000,E
+KEN,1989-01-01,1989-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1989,1989,US$,48.4946304200,E
+KEN,1990-01-01,1990-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1990,1990,US$,47.6070293600,E
+KEN,1991-01-01,1991-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1991,1991,US$,44.2518634700,E
+KEN,1992-01-01,1992-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1992,1992,US$,44.0938321600,E
+KEN,1993-01-01,1993-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1993,1993,US$,30.5037101400,E
+KEN,1994-01-01,1994-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1994,1994,US$,37.8215212400,E
+KEN,1995-01-01,1995-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1995,1995,US$,46.6585013100,E
+KEN,1996-01-01,1996-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1996,1996,US$,45.8443869600,E
+KEN,1997-01-01,1997-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1997,1997,US$,49.7733694700,E
+KEN,1998-01-01,1998-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1998,1998,US$,51.7859160500,E
+KEN,1999-01-01,1999-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",1999,1999,US$,46.3124800800,E
+KEN,2000-01-01,2000-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2000,2000,US$,45.3821606600,E
+KEN,2001-01-01,2001-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2001,2001,US$,44.7489720900,E
+KEN,2002-01-01,2002-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2002,2002,US$,45.0683804700,E
+KEN,2003-01-01,2003-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2003,2003,US$,49.6358138700,E
+KEN,2004-01-01,2004-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2004,2004,US$,50.9986558800,E
+KEN,2005-01-01,2005-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2005,2005,US$,56.0616525700,E
+KEN,2006-01-01,2006-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2006,2006,US$,63.3195876800,E
+KEN,2007-01-01,2007-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2007,2007,US$,73.3325200900,E
+KEN,2008-01-01,2008-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2008,2008,US$,82.1764678400,E
+KEN,2009-01-01,2009-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2009,2009,US$,82.0398763500,E
+KEN,2010-01-01,2010-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2010,2010,US$,81.7690669500,E
+KEN,2011-01-01,2011-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2011,2011,US$,80.8234397000,E
+KEN,2012-01-01,2012-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2012,2012,US$,92.8844663700,E
+KEN,2013-01-01,2013-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2013,2013,US$,95.8755926000,E
+KEN,2014-01-01,2014-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2014,2014,US$,101.4907623000,E
+KEN,2015-01-01,2015-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2015,2015,US$,100.0000000000,E
+KEN,2016-01-01,2016-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2016,2016,US$,102.3813350000,E
+KEN,2017-01-01,2017-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2017,2017,US$,108.1747632000,E
+KEN,2018-01-01,2018-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2018,2018,US$,115.0616025000,E
+KEN,2019-01-01,2019-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2019,2019,US$,119.5293194000,E
+KEN,2020-01-01,2020-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2020,2020,US$,120.4564391000,E
+KEN,2021-01-01,2021-12-31,114,'404,Kenya,22024,GDP Deflator,6179,"Value US$, 2015 prices",2021,2021,US$,121.6529453000,E
+KEN,1970-01-01,1970-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1970,1970,LCU,1.3160637300,E
+KEN,1971-01-01,1971-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1971,1971,LCU,1.4123012730,E
+KEN,1972-01-01,1972-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1972,1972,LCU,1.6412063720,E
+KEN,1973-01-01,1973-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1973,1973,LCU,1.8310756660,E
+KEN,1974-01-01,1974-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1974,1974,LCU,2.3310524280,E
+KEN,1975-01-01,1975-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1975,1975,LCU,2.7099919850,E
+KEN,1976-01-01,1976-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1976,1976,LCU,3.2855254000,E
+KEN,1977-01-01,1977-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1977,1977,LCU,3.6545535070,E
+KEN,1978-01-01,1978-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1978,1978,LCU,4.0872531710,E
+KEN,1979-01-01,1979-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1979,1979,LCU,4.6427527670,E
+KEN,1980-01-01,1980-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1980,1980,LCU,5.2302509510,E
+KEN,1981-01-01,1981-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1981,1981,LCU,5.8438215800,E
+KEN,1982-01-01,1982-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1982,1982,LCU,6.7749799630,E
+KEN,1983-01-01,1983-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1983,1983,LCU,8.4334386000,E
+KEN,1984-01-01,1984-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1984,1984,LCU,9.6768297880,E
+KEN,1985-01-01,1985-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1985,1985,LCU,10.0546603800,E
+KEN,1986-01-01,1986-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1986,1986,LCU,11.6939399700,E
+KEN,1987-01-01,1987-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1987,1987,LCU,12.3155356100,E
+KEN,1988-01-01,1988-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1988,1988,LCU,13.4086304900,E
+KEN,1989-01-01,1989-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1989,1989,LCU,14.7801536600,E
+KEN,1990-01-01,1990-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1990,1990,LCU,17.4582711100,E
+KEN,1991-01-01,1991-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1991,1991,LCU,18.9735003200,E
+KEN,1992-01-01,1992-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1992,1992,LCU,20.3435269400,E
+KEN,1993-01-01,1993-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1993,1993,LCU,27.2252039800,E
+KEN,1994-01-01,1994-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1994,1994,LCU,32.0202490500,E
+KEN,1995-01-01,1995-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1995,1995,LCU,36.5173622100,E
+KEN,1996-01-01,1996-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1996,1996,LCU,37.8456902100,E
+KEN,1997-01-01,1997-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1997,1997,LCU,39.4971117400,E
+KEN,1998-01-01,1998-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1998,1998,LCU,41.1126361700,E
+KEN,1999-01-01,1999-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",1999,1999,LCU,43.9225305000,E
+KEN,2000-01-01,2000-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2000,2000,LCU,46.3986370700,E
+KEN,2001-01-01,2001-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2001,2001,LCU,47.2790859000,E
+KEN,2002-01-01,2002-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2002,2002,LCU,48.5072065900,E
+KEN,2003-01-01,2003-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2003,2003,LCU,52.9597564000,E
+KEN,2004-01-01,2004-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2004,2004,LCU,57.0321011900,E
+KEN,2005-01-01,2005-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2005,2005,LCU,57.0178247200,E
+KEN,2006-01-01,2006-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2006,2006,LCU,56.2513998500,E
+KEN,2007-01-01,2007-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2007,2007,LCU,65.3624347900,E
+KEN,2008-01-01,2008-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2008,2008,LCU,63.1656057200,E
+KEN,2009-01-01,2009-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2009,2009,LCU,64.9802542100,E
+KEN,2010-01-01,2010-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2010,2010,LCU,69.3667656200,E
+KEN,2011-01-01,2011-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2011,2011,LCU,78.1106681800,E
+KEN,2012-01-01,2012-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2012,2012,LCU,82.3750406300,E
+KEN,2013-01-01,2013-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2013,2013,LCU,87.5961197600,E
+KEN,2014-01-01,2014-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2014,2014,LCU,96.9933713500,E
+KEN,2015-01-01,2015-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2015,2015,LCU,100.0000000000,E
+KEN,2016-01-01,2016-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2016,2016,LCU,100.6209820000,E
+KEN,2017-01-01,2017-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2017,2017,LCU,106.7749399000,E
+KEN,2018-01-01,2018-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2018,2018,LCU,113.2896899000,E
+KEN,2019-01-01,2019-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2019,2019,LCU,117.4991788000,E
+KEN,2020-01-01,2020-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2020,2020,LCU,122.9947240000,E
+KEN,2021-01-01,2021-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6180,"Value Local Currency, 2015 prices",2021,2021,LCU,133.7377759000,E
+KEN,1970-01-01,1970-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1970,1970,US$,18.0892669500,E
+KEN,1971-01-01,1971-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1971,1971,US$,19.4120498900,E
+KEN,1972-01-01,1972-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1972,1972,US$,22.5583454300,E
+KEN,1973-01-01,1973-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1973,1973,US$,25.6071726000,E
+KEN,1974-01-01,1974-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1974,1974,US$,32.0764094200,E
+KEN,1975-01-01,1975-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1975,1975,US$,36.2325775200,E
+KEN,1976-01-01,1976-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1976,1976,US$,38.5517165300,E
+KEN,1977-01-01,1977-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1977,1977,US$,43.3511476800,E
+KEN,1978-01-01,1978-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1978,1978,US$,51.9161978900,E
+KEN,1979-01-01,1979-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1979,1979,US$,60.9765129100,E
+KEN,1980-01-01,1980-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1980,1980,US$,69.2028266000,E
+KEN,1981-01-01,1981-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1981,1981,US$,63.4139231800,E
+KEN,1982-01-01,1982-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1982,1982,US$,60.8988520400,E
+KEN,1983-01-01,1983-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1983,1983,US$,62.2004222900,E
+KEN,1984-01-01,1984-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1984,1984,US$,65.9126141800,E
+KEN,1985-01-01,1985-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1985,1985,US$,60.0744885800,E
+KEN,1986-01-01,1986-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1986,1986,US$,70.7575014300,E
+KEN,1987-01-01,1987-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1987,1987,US$,73.4826856200,E
+KEN,1988-01-01,1988-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1988,1988,US$,74.1776742400,E
+KEN,1989-01-01,1989-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1989,1989,US$,70.5356654300,E
+KEN,1990-01-01,1990-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1990,1990,US$,74.8000658500,E
+KEN,1991-01-01,1991-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1991,1991,US$,67.7184071700,E
+KEN,1992-01-01,1992-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1992,1992,US$,61.9954167900,E
+KEN,1993-01-01,1993-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1993,1993,US$,46.0839133300,E
+KEN,1994-01-01,1994-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1994,1994,US$,56.0868202900,E
+KEN,1995-01-01,1995-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1995,1995,US$,69.7108644700,E
+KEN,1996-01-01,1996-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1996,1996,US$,65.0554145900,E
+KEN,1997-01-01,1997-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1997,1997,US$,66.0249233000,E
+KEN,1998-01-01,1998-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1998,1998,US$,66.8642650800,E
+KEN,1999-01-01,1999-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1999,1999,US$,61.3177605000,E
+KEN,2000-01-01,2000-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2000,2000,US$,59.8006436800,E
+KEN,2001-01-01,2001-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2001,2001,US$,59.0834872300,E
+KEN,2002-01-01,2002-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2002,2002,US$,60.4751038200,E
+KEN,2003-01-01,2003-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2003,2003,US$,68.4726144800,E
+KEN,2004-01-01,2004-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2004,2004,US$,70.7218562900,E
+KEN,2005-01-01,2005-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2005,2005,US$,74.0915601200,E
+KEN,2006-01-01,2006-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2006,2006,US$,76.5965530500,E
+KEN,2007-01-01,2007-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2007,2007,US$,95.3269147900,E
+KEN,2008-01-01,2008-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2008,2008,US$,89.6490466500,E
+KEN,2009-01-01,2009-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2009,2009,US$,82.4756934600,E
+KEN,2010-01-01,2010-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2010,2010,US$,85.9529327500,E
+KEN,2011-01-01,2011-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2011,2011,US$,86.3497140300,E
+KEN,2012-01-01,2012-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2012,2012,US$,95.6759988700,E
+KEN,2013-01-01,2013-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2013,2013,US$,99.8579200500,E
+KEN,2014-01-01,2014-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2014,2014,US$,108.3078347000,E
+KEN,2015-01-01,2015-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2015,2015,US$,100.0000000000,E
+KEN,2016-01-01,2016-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2016,2016,US$,97.3240111200,E
+KEN,2017-01-01,2017-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2017,2017,US$,101.3722615000,E
+KEN,2018-01-01,2018-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2018,2018,US$,109.7969763000,E
+KEN,2019-01-01,2019-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2019,2019,US$,113.1065868000,E
+KEN,2020-01-01,2020-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2020,2020,US$,113.4367616000,E
+KEN,2021-01-01,2021-12-31,114,'404,Kenya,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2021,2021,US$,119.7595573000,E
+KEN,1970-01-01,1970-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1970,1970,LCU,1.2095985630,E
+KEN,1971-01-01,1971-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1971,1971,LCU,1.2373277990,E
+KEN,1972-01-01,1972-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1972,1972,LCU,1.3517671800,E
+KEN,1973-01-01,1973-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1973,1973,LCU,1.4972287080,E
+KEN,1974-01-01,1974-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1974,1974,LCU,1.7752854670,E
+KEN,1975-01-01,1975-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1975,1975,LCU,1.8486762220,E
+KEN,1976-01-01,1976-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1976,1976,LCU,2.3908807270,E
+KEN,1977-01-01,1977-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1977,1977,LCU,3.0992262720,E
+KEN,1978-01-01,1978-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1978,1978,LCU,2.7899674940,E
+KEN,1979-01-01,1979-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1979,1979,LCU,2.8851352600,E
+KEN,1980-01-01,1980-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1980,1980,LCU,3.0396249670,E
+KEN,1981-01-01,1981-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1981,1981,LCU,3.3104167080,E
+KEN,1982-01-01,1982-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1982,1982,LCU,3.6307796160,E
+KEN,1983-01-01,1983-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1983,1983,LCU,4.1669854850,E
+KEN,1984-01-01,1984-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1984,1984,LCU,4.7817367540,E
+KEN,1985-01-01,1985-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1985,1985,LCU,5.0342155820,E
+KEN,1986-01-01,1986-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1986,1986,LCU,5.6190636910,E
+KEN,1987-01-01,1987-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1987,1987,LCU,5.6872634080,E
+KEN,1988-01-01,1988-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1988,1988,LCU,6.2263747990,E
+KEN,1989-01-01,1989-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1989,1989,LCU,6.6603396660,E
+KEN,1990-01-01,1990-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1990,1990,LCU,6.9186050290,E
+KEN,1991-01-01,1991-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1991,1991,LCU,7.3015206420,E
+KEN,1992-01-01,1992-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1992,1992,LCU,8.6943729930,E
+KEN,1993-01-01,1993-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1993,1993,LCU,11.8633968100,E
+KEN,1994-01-01,1994-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1994,1994,LCU,13.8266015600,E
+KEN,1995-01-01,1995-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1995,1995,LCU,17.3203728000,E
+KEN,1996-01-01,1996-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1996,1996,LCU,17.8833481800,E
+KEN,1997-01-01,1997-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1997,1997,LCU,20.8048887300,E
+KEN,1998-01-01,1998-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1998,1998,LCU,21.3014364200,E
+KEN,1999-01-01,1999-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",1999,1999,LCU,22.0064420900,E
+KEN,2000-01-01,2000-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2000,2000,LCU,23.7631136800,E
+KEN,2001-01-01,2001-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2001,2001,LCU,21.8430204100,E
+KEN,2002-01-01,2002-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2002,2002,LCU,21.3244301900,E
+KEN,2003-01-01,2003-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2003,2003,LCU,22.7138201000,E
+KEN,2004-01-01,2004-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2004,2004,LCU,24.2824025400,E
+KEN,2005-01-01,2005-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2005,2005,LCU,24.5354618900,E
+KEN,2006-01-01,2006-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2006,2006,LCU,26.4436659800,E
+KEN,2007-01-01,2007-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2007,2007,LCU,29.1669475800,E
+KEN,2008-01-01,2008-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2008,2008,LCU,38.2001162300,E
+KEN,2009-01-01,2009-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2009,2009,LCU,47.4568287500,E
+KEN,2010-01-01,2010-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2010,2010,LCU,50.7208032500,E
+KEN,2011-01-01,2011-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2011,2011,LCU,61.7198822300,E
+KEN,2012-01-01,2012-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2012,2012,LCU,68.1366645800,E
+KEN,2013-01-01,2013-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2013,2013,LCU,72.7078545700,E
+KEN,2014-01-01,2014-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2014,2014,LCU,82.3420937700,E
+KEN,2015-01-01,2015-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2015,2015,LCU,100.0000000000,E
+KEN,2016-01-01,2016-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2016,2016,LCU,111.9546387000,E
+KEN,2017-01-01,2017-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2017,2017,LCU,132.1322622000,E
+KEN,2018-01-01,2018-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2018,2018,LCU,133.7909490000,E
+KEN,2019-01-01,2019-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2019,2019,LCU,149.1418959000,E
+KEN,2020-01-01,2020-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2020,2020,LCU,162.4828588000,E
+KEN,2021-01-01,2021-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6180,"Value Local Currency, 2015 prices",2021,2021,LCU,174.9362728000,E
+KEN,1970-01-01,1970-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1970,1970,US$,16.6259055800,E
+KEN,1971-01-01,1971-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1971,1971,US$,17.0070433500,E
+KEN,1972-01-01,1972-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1972,1972,US$,18.5800101100,E
+KEN,1973-01-01,1973-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1973,1973,US$,20.9383995700,E
+KEN,1974-01-01,1974-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1974,1974,US$,24.4287871000,E
+KEN,1975-01-01,1975-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1975,1975,US$,24.7167906300,E
+KEN,1976-01-01,1976-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1976,1976,US$,28.0541297900,E
+KEN,1977-01-01,1977-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1977,1977,US$,36.7637292900,E
+KEN,1978-01-01,1978-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1978,1978,US$,35.4381043900,E
+KEN,1979-01-01,1979-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1979,1979,US$,37.8924953100,E
+KEN,1980-01-01,1980-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1980,1980,US$,40.2180777700,E
+KEN,1981-01-01,1981-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1981,1981,US$,35.9228131700,E
+KEN,1982-01-01,1982-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1982,1982,US$,32.6363047300,E
+KEN,1983-01-01,1983-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1983,1983,US$,30.7334017800,E
+KEN,1984-01-01,1984-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1984,1984,US$,32.5702504500,E
+KEN,1985-01-01,1985-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1985,1985,US$,30.0783830600,E
+KEN,1986-01-01,1986-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1986,1986,US$,33.9997390300,E
+KEN,1987-01-01,1987-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1987,1987,US$,33.9340003000,E
+KEN,1988-01-01,1988-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1988,1988,US$,34.4448302900,E
+KEN,1989-01-01,1989-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1989,1989,US$,31.7852913600,E
+KEN,1990-01-01,1990-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1990,1990,US$,29.6428041700,E
+KEN,1991-01-01,1991-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1991,1991,US$,26.0598908800,E
+KEN,1992-01-01,1992-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1992,1992,US$,26.4954685100,E
+KEN,1993-01-01,1993-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1993,1993,US$,20.0810892300,E
+KEN,1994-01-01,1994-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1994,1994,US$,24.2187409400,E
+KEN,1995-01-01,1995-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1995,1995,US$,33.0642217200,E
+KEN,1996-01-01,1996-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1996,1996,US$,30.7408485200,E
+KEN,1997-01-01,1997-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1997,1997,US$,34.7782691400,E
+KEN,1998-01-01,1998-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1998,1998,US$,34.6439689600,E
+KEN,1999-01-01,1999-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1999,1999,US$,30.7219490800,E
+KEN,2000-01-01,2000-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2000,2000,US$,30.6269663000,E
+KEN,2001-01-01,2001-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2001,2001,US$,27.2966744800,E
+KEN,2002-01-01,2002-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2002,2002,US$,26.5856811900,E
+KEN,2003-01-01,2003-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2003,2003,US$,29.3671035000,E
+KEN,2004-01-01,2004-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2004,2004,US$,30.1110523200,E
+KEN,2005-01-01,2005-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2005,2005,US$,31.8824974200,E
+KEN,2006-01-01,2006-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2006,2006,US$,36.0078801600,E
+KEN,2007-01-01,2007-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2007,2007,US$,42.5381204900,E
+KEN,2008-01-01,2008-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2008,2008,US$,54.2162773900,E
+KEN,2009-01-01,2009-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2009,2009,US$,60.2342189700,E
+KEN,2010-01-01,2010-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2010,2010,US$,62.8485666400,E
+KEN,2011-01-01,2011-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2011,2011,US$,68.2300421300,E
+KEN,2012-01-01,2012-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2012,2012,US$,79.1385763600,E
+KEN,2013-01-01,2013-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2013,2013,US$,82.8855792800,E
+KEN,2014-01-01,2014-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2014,2014,US$,91.9474573800,E
+KEN,2015-01-01,2015-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2015,2015,US$,100.0000000000,E
+KEN,2016-01-01,2016-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2016,2016,US$,108.2863065000,E
+KEN,2017-01-01,2017-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2017,2017,US$,125.4465350000,E
+KEN,2018-01-01,2018-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2018,2018,US$,129.6661830000,E
+KEN,2019-01-01,2019-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2019,2019,US$,143.5663718000,E
+KEN,2020-01-01,2020-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2020,2020,US$,149.8562598000,E
+KEN,2021-01-01,2021-12-31,114,'404,Kenya,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2021,2021,US$,156.6520038000,E
+KEN,1970-01-01,1970-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1970,1970,LCU,3.5836128010,E
+KEN,1971-01-01,1971-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1971,1971,LCU,3.6678639500,E
+KEN,1972-01-01,1972-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1972,1972,LCU,3.9448640920,E
+KEN,1973-01-01,1973-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1973,1973,LCU,4.2419267310,E
+KEN,1974-01-01,1974-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1974,1974,LCU,4.9704583020,E
+KEN,1975-01-01,1975-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1975,1975,LCU,5.3046067590,E
+KEN,1976-01-01,1976-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1976,1976,LCU,5.0796181450,E
+KEN,1977-01-01,1977-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1977,1977,LCU,5.4753130360,E
+KEN,1978-01-01,1978-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1978,1978,LCU,5.9119296390,E
+KEN,1979-01-01,1979-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1979,1979,LCU,6.2840419080,E
+KEN,1980-01-01,1980-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1980,1980,LCU,7.0560301910,E
+KEN,1981-01-01,1981-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1981,1981,LCU,7.5651577930,E
+KEN,1982-01-01,1982-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1982,1982,LCU,8.3954799890,E
+KEN,1983-01-01,1983-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1983,1983,LCU,8.8055419940,E
+KEN,1984-01-01,1984-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1984,1984,LCU,9.5327987070,E
+KEN,1985-01-01,1985-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1985,1985,LCU,10.2567420600,E
+KEN,1986-01-01,1986-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1986,1986,LCU,11.3684896100,E
+KEN,1987-01-01,1987-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1987,1987,LCU,11.5482129800,E
+KEN,1988-01-01,1988-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1988,1988,LCU,12.5681837600,E
+KEN,1989-01-01,1989-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1989,1989,LCU,13.4927357000,E
+KEN,1990-01-01,1990-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1990,1990,LCU,14.7970334800,E
+KEN,1991-01-01,1991-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1991,1991,LCU,16.8342356500,E
+KEN,1992-01-01,1992-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1992,1992,LCU,17.5464106400,E
+KEN,1993-01-01,1993-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1993,1993,LCU,19.9024734300,E
+KEN,1994-01-01,1994-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1994,1994,LCU,24.8429260600,E
+KEN,1995-01-01,1995-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1995,1995,LCU,25.7690915800,E
+KEN,1996-01-01,1996-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1996,1996,LCU,30.4687024500,E
+KEN,1997-01-01,1997-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1997,1997,LCU,33.2753633600,E
+KEN,1998-01-01,1998-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1998,1998,LCU,35.4796097700,E
+KEN,1999-01-01,1999-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",1999,1999,LCU,35.8585427200,E
+KEN,2000-01-01,2000-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2000,2000,LCU,38.7194104100,E
+KEN,2001-01-01,2001-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2001,2001,LCU,38.6216796200,E
+KEN,2002-01-01,2002-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2002,2002,LCU,39.3382394300,E
+KEN,2003-01-01,2003-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2003,2003,LCU,40.1047918300,E
+KEN,2004-01-01,2004-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2004,2004,LCU,44.5259699700,E
+KEN,2005-01-01,2005-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2005,2005,LCU,49.7923537300,E
+KEN,2006-01-01,2006-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2006,2006,LCU,52.3875445300,E
+KEN,2007-01-01,2007-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2007,2007,LCU,58.4513613000,E
+KEN,2008-01-01,2008-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2008,2008,LCU,63.0797614000,E
+KEN,2009-01-01,2009-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2009,2009,LCU,72.7044497700,E
+KEN,2010-01-01,2010-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2010,2010,LCU,72.4529170900,E
+KEN,2011-01-01,2011-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2011,2011,LCU,82.9171651600,E
+KEN,2012-01-01,2012-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2012,2012,LCU,89.4169872300,E
+KEN,2013-01-01,2013-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2013,2013,LCU,91.3679026300,E
+KEN,2014-01-01,2014-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2014,2014,LCU,94.6447794300,E
+KEN,2015-01-01,2015-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2015,2015,LCU,100.0000000000,E
+KEN,2016-01-01,2016-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2016,2016,LCU,101.1613125000,E
+KEN,2017-01-01,2017-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2017,2017,LCU,105.2158147000,E
+KEN,2018-01-01,2018-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2018,2018,LCU,107.6099428000,E
+KEN,2019-01-01,2019-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2019,2019,LCU,107.9930442000,E
+KEN,2020-01-01,2020-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2020,2020,LCU,109.4789244000,E
+KEN,2021-01-01,2021-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6180,"Value Local Currency, 2015 prices",2021,2021,LCU,114.1210660000,E
+KEN,1970-01-01,1970-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1970,1970,US$,49.2566789500,E
+KEN,1971-01-01,1971-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1971,1971,US$,50.4147091900,E
+KEN,1972-01-01,1972-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1972,1972,US$,54.2220700300,E
+KEN,1973-01-01,1973-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1973,1973,US$,59.3223709800,E
+KEN,1974-01-01,1974-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1974,1974,US$,68.3959114700,E
+KEN,1975-01-01,1975-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1975,1975,US$,70.9225623700,E
+KEN,1976-01-01,1976-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1976,1976,US$,59.6032521200,E
+KEN,1977-01-01,1977-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1977,1977,US$,64.9494127200,E
+KEN,1978-01-01,1978-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1978,1978,US$,75.0931973700,E
+KEN,1979-01-01,1979-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1979,1979,US$,82.5327088800,E
+KEN,1980-01-01,1980-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1980,1980,US$,93.3601921500,E
+KEN,1981-01-01,1981-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1981,1981,US$,82.0929127500,E
+KEN,1982-01-01,1982-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1982,1982,US$,75.4651816600,E
+KEN,1983-01-01,1983-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1983,1983,US$,64.9448530400,E
+KEN,1984-01-01,1984-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1984,1984,US$,64.9315630200,E
+KEN,1985-01-01,1985-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1985,1985,US$,61.2818842700,E
+KEN,1986-01-01,1986-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1986,1986,US$,68.7882717000,E
+KEN,1987-01-01,1987-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1987,1987,US$,68.9043278900,E
+KEN,1988-01-01,1988-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1988,1988,US$,69.5282521000,E
+KEN,1989-01-01,1989-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1989,1989,US$,64.3916912500,E
+KEN,1990-01-01,1990-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1990,1990,US$,63.3979774700,E
+KEN,1991-01-01,1991-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1991,1991,US$,60.0831478100,E
+KEN,1992-01-01,1992-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1992,1992,US$,53.4714085700,E
+KEN,1993-01-01,1993-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1993,1993,US$,33.6887782800,E
+KEN,1994-01-01,1994-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1994,1994,US$,43.5149872500,E
+KEN,1995-01-01,1995-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1995,1995,US$,49.1926454100,E
+KEN,1996-01-01,1996-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1996,1996,US$,52.3746312700,E
+KEN,1997-01-01,1997-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1997,1997,US$,55.6244043400,E
+KEN,1998-01-01,1998-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1998,1998,US$,57.7028926900,E
+KEN,1999-01-01,1999-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1999,1999,US$,50.0600832700,E
+KEN,2000-01-01,2000-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2000,2000,US$,49.9033120700,E
+KEN,2001-01-01,2001-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2001,2001,US$,48.2645438500,E
+KEN,2002-01-01,2002-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2002,2002,US$,49.0439314300,E
+KEN,2003-01-01,2003-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2003,2003,US$,51.8522013000,E
+KEN,2004-01-01,2004-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2004,2004,US$,55.2138038700,E
+KEN,2005-01-01,2005-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2005,2005,US$,64.7024538000,E
+KEN,2006-01-01,2006-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2006,2006,US$,71.3352084500,E
+KEN,2007-01-01,2007-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2007,2007,US$,85.2475578000,E
+KEN,2008-01-01,2008-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2008,2008,US$,89.5272103800,E
+KEN,2009-01-01,2009-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2009,2009,US$,92.2795699300,E
+KEN,2010-01-01,2010-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2010,2010,US$,89.7770085600,E
+KEN,2011-01-01,2011-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2011,2011,US$,91.6631961700,E
+KEN,2012-01-01,2012-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2012,2012,US$,103.8549966000,E
+KEN,2013-01-01,2013-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2013,2013,US$,104.1576812000,E
+KEN,2014-01-01,2014-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2014,2014,US$,105.6852750000,E
+KEN,2015-01-01,2015-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2015,2015,US$,100.0000000000,E
+KEN,2016-01-01,2016-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2016,2016,US$,97.8466370100,E
+KEN,2017-01-01,2017-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2017,2017,US$,99.8920260900,E
+KEN,2018-01-01,2018-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2018,2018,US$,104.2923355000,E
+KEN,2019-01-01,2019-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2019,2019,US$,103.9558298000,E
+KEN,2020-01-01,2020-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2020,2020,US$,100.9712794000,E
+KEN,2021-01-01,2021-12-31,114,'404,Kenya,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2021,2021,US$,102.1931780000,E

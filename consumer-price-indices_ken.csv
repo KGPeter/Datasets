@@ -1,0 +1,809 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,,
+KEN,2000-01-01,2000-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2000,2000,,19.734948,I,base year is 2015
+KEN,2001-01-01,2001-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2001,2001,,22.919383,I,base year is 2015
+KEN,2002-01-01,2002-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2002,2002,,23.059345,I,base year is 2015
+KEN,2003-01-01,2003-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2003,2003,,25.023064,I,base year is 2015
+KEN,2004-01-01,2004-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2004,2004,,28.093690,I,base year is 2015
+KEN,2005-01-01,2005-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2005,2005,,33.750519,I,base year is 2015
+KEN,2006-01-01,2006-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2006,2006,,37.435699,I,base year is 2015
+KEN,2007-01-01,2007-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2007,2007,,39.744784,I,base year is 2015
+KEN,2008-01-01,2008-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2008,2008,,43.969660,I,base year is 2015
+KEN,2009-01-01,2009-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2009,2009,,51.888940,I,base year is 2015
+KEN,2010-01-01,2010-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2010,2010,,56.693973,X,base year is 2015
+KEN,2011-01-01,2011-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2011,2011,,61.541847,X,base year is 2015
+KEN,2012-01-01,2012-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2012,2012,,76.665098,X,base year is 2015
+KEN,2013-01-01,2013-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2013,2013,,78.503983,X,base year is 2015
+KEN,2014-01-01,2014-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2014,2014,,86.465947,X,base year is 2015
+KEN,2015-01-01,2015-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2015,2015,,93.101516,X,base year is 2015
+KEN,2016-01-01,2016-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2016,2016,,104.931799,X,base year is 2015
+KEN,2017-01-01,2017-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2017,2017,,118.090990,X,base year is 2015
+KEN,2018-01-01,2018-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2018,2018,,123.648316,X,base year is 2015
+KEN,2019-01-01,2019-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2019,2019,,125.645336,X,base year is 2015
+KEN,2020-01-01,2020-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2020,2020,,137.702217,X,base year is 2015
+KEN,2021-01-01,2021-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2021,2021,,150.856182,A,base year is 2015
+KEN,2022-01-01,2022-01-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2022,2022,,163.906553,A,base year is 2015
+KEN,2000-02-01,2000-02-29,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2000,2000,,19.562542,I,base year is 2015
+KEN,2001-02-01,2001-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2001,2001,,22.237390,I,base year is 2015
+KEN,2002-02-01,2002-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2002,2002,,22.591119,I,base year is 2015
+KEN,2003-02-01,2003-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2003,2003,,24.842581,I,base year is 2015
+KEN,2004-02-01,2004-02-29,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2004,2004,,28.131088,I,base year is 2015
+KEN,2005-02-01,2005-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2005,2005,,33.432591,I,base year is 2015
+KEN,2006-02-01,2006-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2006,2006,,37.419825,I,base year is 2015
+KEN,2007-02-01,2007-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2007,2007,,38.972484,I,base year is 2015
+KEN,2008-02-01,2008-02-29,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2008,2008,,44.763908,I,base year is 2015
+KEN,2009-02-01,2009-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2009,2009,,53.160750,X,base year is 2015
+KEN,2010-02-01,2010-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2010,2010,,57.014532,X,base year is 2015
+KEN,2011-02-01,2011-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2011,2011,,62.612284,X,base year is 2015
+KEN,2012-02-01,2012-02-29,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2012,2012,,76.431894,X,base year is 2015
+KEN,2013-02-01,2013-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2013,2013,,79.514760,X,base year is 2015
+KEN,2014-02-01,2014-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2014,2014,,86.779662,X,base year is 2015
+KEN,2015-02-01,2015-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2015,2015,,94.326158,X,base year is 2015
+KEN,2016-02-01,2016-02-29,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2016,2016,,104.485058,X,base year is 2015
+KEN,2017-02-01,2017-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2017,2017,,121.730132,X,base year is 2015
+KEN,2018-02-01,2018-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2018,2018,,126.397944,X,base year is 2015
+KEN,2019-02-01,2019-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2019,2019,,127.781673,X,base year is 2015
+KEN,2020-02-01,2020-02-29,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2020,2020,,141.295789,X,base year is 2015
+KEN,2021-02-01,2021-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2021,2021,,152.379830,A,base year is 2015
+KEN,2022-02-01,2022-02-28,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2022,2022,,165.266978,A,base year is 2015
+KEN,2000-03-01,2000-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2000,2000,,19.492224,I,base year is 2015
+KEN,2001-03-01,2001-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2001,2001,,21.969282,I,base year is 2015
+KEN,2002-03-01,2002-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2002,2002,,22.560452,I,base year is 2015
+KEN,2003-03-01,2003-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2003,2003,,25.630247,I,base year is 2015
+KEN,2004-03-01,2004-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2004,2004,,28.489839,I,base year is 2015
+KEN,2005-03-01,2005-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2005,2005,,33.941749,I,base year is 2015
+KEN,2006-03-01,2006-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2006,2006,,37.698327,I,base year is 2015
+KEN,2007-03-01,2007-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2007,2007,,38.856652,I,base year is 2015
+KEN,2008-03-01,2008-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2008,2008,,45.427847,I,base year is 2015
+KEN,2009-03-01,2009-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2009,2009,,54.114826,X,base year is 2015
+KEN,2010-03-01,2010-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2010,2010,,56.544697,X,base year is 2015
+KEN,2011-03-01,2011-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2011,2011,,65.078889,X,base year is 2015
+KEN,2012-03-01,2012-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2012,2012,,78.297319,X,base year is 2015
+KEN,2013-03-01,2013-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2013,2013,,80.588819,X,base year is 2015
+KEN,2014-03-01,2014-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2014,2014,,87.267179,X,base year is 2015
+KEN,2015-03-01,2015-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2015,2015,,96.827732,X,base year is 2015
+KEN,2016-03-01,2016-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2016,2016,,105.939055,X,base year is 2015
+KEN,2017-03-01,2017-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2017,2017,,125.597199,X,base year is 2015
+KEN,2018-03-01,2018-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2018,2018,,128.349124,X,base year is 2015
+KEN,2019-03-01,2019-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2019,2019,,131.995776,X,base year is 2015
+KEN,2020-03-01,2020-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2020,2020,,142.072915,A,base year is 2015
+KEN,2021-03-01,2021-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2021,2021,,152.913159,A,base year is 2015
+KEN,2022-03-01,2022-03-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2022,2022,,167.729456,A,base year is 2015
+KEN,2000-04-01,2000-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2000,2000,,19.959572,I,base year is 2015
+KEN,2001-04-01,2001-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2001,2001,,22.397928,I,base year is 2015
+KEN,2002-04-01,2002-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2002,2002,,22.652159,I,base year is 2015
+KEN,2003-04-01,2003-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2003,2003,,26.203161,I,base year is 2015
+KEN,2004-04-01,2004-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2004,2004,,28.860347,I,base year is 2015
+KEN,2005-04-01,2005-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2005,2005,,35.130423,I,base year is 2015
+KEN,2006-04-01,2006-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2006,2006,,37.446207,I,base year is 2015
+KEN,2007-04-01,2007-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2007,2007,,38.440941,I,base year is 2015
+KEN,2008-04-01,2008-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2008,2008,,47.224924,I,base year is 2015
+KEN,2009-04-01,2009-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2009,2009,,55.136257,X,base year is 2015
+KEN,2010-04-01,2010-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2010,2010,,57.223454,X,base year is 2015
+KEN,2011-04-01,2011-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2011,2011,,68.175712,X,base year is 2015
+KEN,2012-04-01,2012-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2012,2012,,79.248525,X,base year is 2015
+KEN,2013-04-01,2013-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2013,2013,,82.077495,X,base year is 2015
+KEN,2014-04-01,2014-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2014,2014,,88.714342,X,base year is 2015
+KEN,2015-04-01,2015-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2015,2015,,100.619416,X,base year is 2015
+KEN,2016-04-01,2016-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2016,2016,,107.501792,X,base year is 2015
+KEN,2017-04-01,2017-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2017,2017,,130.060276,X,base year is 2015
+KEN,2018-04-01,2018-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2018,2018,,130.392453,X,base year is 2015
+KEN,2019-04-01,2019-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2019,2019,,141.048881,X,base year is 2015
+KEN,2020-04-01,2020-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2020,2020,,144.587606,A,base year is 2015
+KEN,2021-04-01,2021-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2021,2021,,155.558557,A,base year is 2015
+KEN,2022-04-01,2022-04-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2022,2022,,172.811658,A,base year is 2015
+KEN,2000-05-01,2000-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2000,2000,,20.859616,I,base year is 2015
+KEN,2001-05-01,2001-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2001,2001,,22.794996,I,base year is 2015
+KEN,2002-05-01,2002-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2002,2002,,23.310834,I,base year is 2015
+KEN,2003-05-01,2003-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2003,2003,,28.018325,I,base year is 2015
+KEN,2004-05-01,2004-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2004,2004,,29.755144,I,base year is 2015
+KEN,2005-05-01,2005-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2005,2005,,35.707796,I,base year is 2015
+KEN,2006-05-01,2006-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2006,2006,,37.605212,I,base year is 2015
+KEN,2007-05-01,2007-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2007,2007,,38.649659,I,base year is 2015
+KEN,2008-05-01,2008-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2008,2008,,48.488806,I,base year is 2015
+KEN,2009-05-01,2009-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2009,2009,,55.034082,X,base year is 2015
+KEN,2010-05-01,2010-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2010,2010,,57.478360,X,base year is 2015
+KEN,2011-05-01,2011-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2011,2011,,69.044885,X,base year is 2015
+KEN,2012-05-01,2012-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2012,2012,,79.107419,X,base year is 2015
+KEN,2013-05-01,2013-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2013,2013,,82.492010,X,base year is 2015
+KEN,2014-05-01,2014-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2014,2014,,89.823203,X,base year is 2015
+KEN,2015-05-01,2015-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2015,2015,,101.682715,X,base year is 2015
+KEN,2016-05-01,2016-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2016,2016,,108.381243,X,base year is 2015
+KEN,2017-05-01,2017-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2017,2017,,131.704737,X,base year is 2015
+KEN,2018-05-01,2018-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2018,2018,,132.156543,X,base year is 2015
+KEN,2019-05-01,2019-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2019,2019,,140.525484,X,base year is 2015
+KEN,2020-05-01,2020-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2020,2020,,145.831059,A,base year is 2015
+KEN,2021-05-01,2021-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2021,2021,,156.056344,A,base year is 2015
+KEN,2022-05-01,2022-05-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2022,2022,,175.058210,A,base year is 2015
+KEN,2000-06-01,2000-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2000,2000,,21.788795,I,base year is 2015
+KEN,2001-06-01,2001-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2001,2001,,23.126842,I,base year is 2015
+KEN,2002-06-01,2002-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2002,2002,,24.002786,I,base year is 2015
+KEN,2003-06-01,2003-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2003,2003,,28.460150,I,base year is 2015
+KEN,2004-06-01,2004-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2004,2004,,30.719481,I,base year is 2015
+KEN,2005-06-01,2005-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2005,2005,,35.654143,I,base year is 2015
+KEN,2006-06-01,2006-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2006,2006,,37.580021,I,base year is 2015
+KEN,2007-06-01,2007-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2007,2007,,39.604616,I,base year is 2015
+KEN,2008-06-01,2008-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2008,2008,,48.634982,I,base year is 2015
+KEN,2009-06-01,2009-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2009,2009,,54.902828,X,base year is 2015
+KEN,2010-06-01,2010-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2010,2010,,57.303780,X,base year is 2015
+KEN,2011-06-01,2011-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2011,2011,,70.206062,X,base year is 2015
+KEN,2012-06-01,2012-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2012,2012,,77.597493,X,base year is 2015
+KEN,2013-06-01,2013-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2013,2013,,82.639161,X,base year is 2015
+KEN,2014-06-01,2014-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2014,2014,,89.589041,X,base year is 2015
+KEN,2015-06-01,2015-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2015,2015,,101.580835,X,base year is 2015
+KEN,2016-06-01,2016-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2016,2016,,110.612932,X,base year is 2015
+KEN,2017-06-01,2017-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2017,2017,,128.101772,X,base year is 2015
+KEN,2018-06-01,2018-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2018,2018,,129.255026,X,base year is 2015
+KEN,2019-06-01,2019-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2019,2019,,138.275855,X,base year is 2015
+KEN,2020-06-01,2020-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2020,2020,,143.979005,A,base year is 2015
+KEN,2021-06-01,2021-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2021,2021,,156.149978,A,base year is 2015
+KEN,2022-06-01,2022-06-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2022,2022,,177.158908,A,base year is 2015
+KEN,2000-07-01,2000-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2000,2000,,22.112498,I,base year is 2015
+KEN,2001-07-01,2001-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2001,2001,,23.367421,I,base year is 2015
+KEN,2002-07-01,2002-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2002,2002,,24.023765,I,base year is 2015
+KEN,2003-07-01,2003-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2003,2003,,27.551948,I,base year is 2015
+KEN,2004-07-01,2004-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2004,2004,,30.706806,I,base year is 2015
+KEN,2005-07-01,2005-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2005,2005,,35.574140,I,base year is 2015
+KEN,2006-07-01,2006-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2006,2006,,37.487768,I,base year is 2015
+KEN,2007-07-01,2007-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2007,2007,,40.186112,I,base year is 2015
+KEN,2008-07-01,2008-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2008,2008,,48.534819,I,base year is 2015
+KEN,2009-07-01,2009-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2009,2009,,55.063161,X,base year is 2015
+KEN,2010-07-01,2010-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2010,2010,,57.570859,X,base year is 2015
+KEN,2011-07-01,2011-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2011,2011,,71.405084,X,base year is 2015
+KEN,2012-07-01,2012-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2012,2012,,76.135115,X,base year is 2015
+KEN,2013-07-01,2013-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2013,2013,,82.558694,X,base year is 2015
+KEN,2014-07-01,2014-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2014,2014,,90.037347,X,base year is 2015
+KEN,2015-07-01,2015-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2015,2015,,100.968493,X,base year is 2015
+KEN,2016-07-01,2016-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2016,2016,,111.850218,X,base year is 2015
+KEN,2017-07-01,2017-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2017,2017,,125.481947,X,base year is 2015
+KEN,2018-07-01,2018-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2018,2018,,126.148926,X,base year is 2015
+KEN,2019-07-01,2019-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2019,2019,,136.835636,X,base year is 2015
+KEN,2020-07-01,2020-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2020,2020,,142.827173,A,base year is 2015
+KEN,2021-07-01,2021-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2021,2021,,155.431688,A,base year is 2015
+KEN,2022-07-01,2022-07-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2022,2022,,179.107656,A,base year is 2015
+KEN,2000-08-01,2000-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2000,2000,,22.390001,I,base year is 2015
+KEN,2001-08-01,2001-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2001,2001,,23.591891,I,base year is 2015
+KEN,2002-08-01,2002-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2002,2002,,24.158485,I,base year is 2015
+KEN,2003-08-01,2003-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2003,2003,,26.836273,I,base year is 2015
+KEN,2004-08-01,2004-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2004,2004,,32.586332,I,base year is 2015
+KEN,2005-08-01,2005-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2005,2005,,35.580964,I,base year is 2015
+KEN,2006-08-01,2006-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2006,2006,,37.860962,I,base year is 2015
+KEN,2007-08-01,2007-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2007,2007,,40.482900,I,base year is 2015
+KEN,2008-08-01,2008-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2008,2008,,49.257919,I,base year is 2015
+KEN,2009-08-01,2009-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2009,2009,,55.632300,X,base year is 2015
+KEN,2010-08-01,2010-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2010,2010,,58.675274,X,base year is 2015
+KEN,2011-08-01,2011-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2011,2011,,72.678146,X,base year is 2015
+KEN,2012-08-01,2012-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2012,2012,,75.307712,X,base year is 2015
+KEN,2013-08-01,2013-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2013,2013,,82.639159,X,base year is 2015
+KEN,2014-08-01,2014-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2014,2014,,91.608790,X,base year is 2015
+KEN,2015-08-01,2015-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2015,2015,,100.703442,X,base year is 2015
+KEN,2016-08-01,2016-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2016,2016,,111.633061,X,base year is 2015
+KEN,2017-08-01,2017-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2017,2017,,126.784539,X,base year is 2015
+KEN,2018-08-01,2018-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2018,2018,,125.320207,X,base year is 2015
+KEN,2019-08-01,2019-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2019,2019,,134.252409,X,base year is 2015
+KEN,2020-08-01,2020-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2020,2020,,141.384619,A,base year is 2015
+KEN,2021-08-01,2021-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2021,2021,,156.146674,A,base year is 2015
+KEN,2022-08-01,2022-08-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2022,2022,,180.003195,A,base year is 2015
+KEN,2000-09-01,2000-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2000,2000,,22.570781,I,base year is 2015
+KEN,2001-09-01,2001-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2001,2001,,23.495062,I,base year is 2015
+KEN,2002-09-01,2002-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2002,2002,,24.048674,I,base year is 2015
+KEN,2003-09-01,2003-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2003,2003,,26.590706,I,base year is 2015
+KEN,2004-09-01,2004-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2004,2004,,33.458317,I,base year is 2015
+KEN,2005-09-01,2005-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2005,2005,,35.359454,I,base year is 2015
+KEN,2006-09-01,2006-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2006,2006,,38.091790,I,base year is 2015
+KEN,2007-09-01,2007-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2007,2007,,40.861978,I,base year is 2015
+KEN,2008-09-01,2008-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2008,2008,,49.907216,I,base year is 2015
+KEN,2009-09-01,2009-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2009,2009,,55.839786,X,base year is 2015
+KEN,2010-09-01,2010-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2010,2010,,59.010772,X,base year is 2015
+KEN,2011-09-01,2011-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2011,2011,,73.391793,X,base year is 2015
+KEN,2012-09-01,2012-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2012,2012,,75.527515,X,base year is 2015
+KEN,2013-09-01,2013-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2013,2013,,85.006921,X,base year is 2015
+KEN,2014-09-01,2014-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2014,2014,,92.143586,X,base year is 2015
+KEN,2015-09-01,2015-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2015,2015,,101.184752,X,base year is 2015
+KEN,2016-09-01,2016-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2016,2016,,112.251405,X,base year is 2015
+KEN,2017-09-01,2017-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2017,2017,,125.157872,X,base year is 2015
+KEN,2018-09-01,2018-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2018,2018,,125.786003,X,base year is 2015
+KEN,2019-09-01,2019-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2019,2019,,133.717165,X,base year is 2015
+KEN,2020-09-01,2020-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2020,2020,,141.596695,A,base year is 2015
+KEN,2021-09-01,2021-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2021,2021,,156.318435,A,base year is 2015
+KEN,2022-09-01,2022-09-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2022,2022,,180.543204,A,base year is 2015
+KEN,2000-10-01,2000-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2000,2000,,22.468355,I,base year is 2015
+KEN,2001-10-01,2001-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2001,2001,,23.429010,I,base year is 2015
+KEN,2002-10-01,2002-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2002,2002,,24.016644,I,base year is 2015
+KEN,2003-10-01,2003-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2003,2003,,26.943461,I,base year is 2015
+KEN,2004-10-01,2004-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2004,2004,,33.650387,I,base year is 2015
+KEN,2005-10-01,2005-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2005,2005,,35.316329,I,base year is 2015
+KEN,2006-10-01,2006-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2006,2006,,38.293935,I,base year is 2015
+KEN,2007-10-01,2007-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2007,2007,,41.011553,I,base year is 2015
+KEN,2008-10-01,2008-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2008,2008,,50.307812,I,base year is 2015
+KEN,2009-10-01,2009-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2009,2009,,55.982150,X,base year is 2015
+KEN,2010-10-01,2010-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2010,2010,,59.129958,X,base year is 2015
+KEN,2011-10-01,2011-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2011,2011,,74.625184,X,base year is 2015
+KEN,2012-10-01,2012-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2012,2012,,75.699822,X,base year is 2015
+KEN,2013-10-01,2013-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2013,2013,,84.806284,X,base year is 2015
+KEN,2014-10-01,2014-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2014,2014,,91.730456,X,base year is 2015
+KEN,2015-10-01,2015-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2015,2015,,102.072152,X,base year is 2015
+KEN,2016-10-01,2016-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2016,2016,,113.332912,X,base year is 2015
+KEN,2017-10-01,2017-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2017,2017,,122.930872,X,base year is 2015
+KEN,2018-10-01,2018-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2018,2018,,123.566063,X,base year is 2015
+KEN,2019-10-01,2019-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2019,2019,,134.360252,X,base year is 2015
+KEN,2020-10-01,2020-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2020,2020,,143.210898,A,base year is 2015
+KEN,2021-10-01,2021-10-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2021,2021,,158.053570,A,base year is 2015
+KEN,2000-11-01,2000-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2000,2000,,22.730943,I,base year is 2015
+KEN,2001-11-01,2001-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2001,2001,,23.379324,I,base year is 2015
+KEN,2002-11-01,2002-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2002,2002,,24.178011,I,base year is 2015
+KEN,2003-11-01,2003-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2003,2003,,27.089723,I,base year is 2015
+KEN,2004-11-01,2004-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2004,2004,,33.494519,I,base year is 2015
+KEN,2005-11-01,2005-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2005,2005,,35.567412,I,base year is 2015
+KEN,2006-11-01,2006-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2006,2006,,38.478819,I,base year is 2015
+KEN,2007-11-01,2007-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2007,2007,,41.550114,I,base year is 2015
+KEN,2008-11-01,2008-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2008,2008,,51.469626,I,base year is 2015
+KEN,2009-11-01,2009-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2009,2009,,56.164917,X,base year is 2015
+KEN,2010-11-01,2010-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2010,2010,,59.932819,X,base year is 2015
+KEN,2011-11-01,2011-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2011,2011,,75.636860,X,base year is 2015
+KEN,2012-11-01,2012-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2012,2012,,76.946932,X,base year is 2015
+KEN,2013-11-01,2013-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2013,2013,,85.146900,X,base year is 2015
+KEN,2014-11-01,2014-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2014,2014,,91.565790,X,base year is 2015
+KEN,2015-11-01,2015-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2015,2015,,103.170575,X,base year is 2015
+KEN,2016-11-01,2016-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2016,2016,,114.656475,X,base year is 2015
+KEN,2017-11-01,2017-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2017,2017,,121.290851,X,base year is 2015
+KEN,2018-11-01,2018-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2018,2018,,123.382419,X,base year is 2015
+KEN,2019-11-01,2019-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2019,2019,,135.199350,X,base year is 2015
+KEN,2020-11-01,2020-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2020,2020,,145.416346,A,base year is 2015
+KEN,2021-11-01,2021-11-30,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2021,2021,,159.491857,A,base year is 2015
+KEN,2000-12-01,2000-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2000,2000,,22.873839,I,base year is 2015
+KEN,2001-12-01,2001-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2001,2001,,23.359930,I,base year is 2015
+KEN,2002-12-01,2002-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2002,2002,,24.681442,I,base year is 2015
+KEN,2003-12-01,2003-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2003,2003,,27.444173,I,base year is 2015
+KEN,2004-12-01,2004-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2004,2004,,33.812022,I,base year is 2015
+KEN,2005-12-01,2005-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2005,2005,,36.026684,I,base year is 2015
+KEN,2006-12-01,2006-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2006,2006,,39.554414,I,base year is 2015
+KEN,2007-12-01,2007-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2007,2007,,42.511485,I,base year is 2015
+KEN,2008-12-01,2008-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2008,2008,,51.428010,I,base year is 2015
+KEN,2009-12-01,2009-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2009,2009,,56.558307,X,base year is 2015
+KEN,2010-12-01,2010-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2010,2010,,60.987896,X,base year is 2015
+KEN,2011-12-01,2011-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2011,2011,,76.223793,X,base year is 2015
+KEN,2012-12-01,2012-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2012,2012,,77.539473,X,base year is 2015
+KEN,2013-12-01,2013-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2013,2013,,85.612073,X,base year is 2015
+KEN,2014-12-01,2014-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2014,2014,,92.213176,X,base year is 2015
+KEN,2015-12-01,2015-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2015,2015,,104.438893,X,base year is 2015
+KEN,2016-12-01,2016-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2016,2016,,116.160845,X,base year is 2015
+KEN,2017-12-01,2017-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2017,2017,,121.591737,X,base year is 2015
+KEN,2018-12-01,2018-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2018,2018,,124.678383,X,base year is 2015
+KEN,2019-12-01,2019-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2019,2019,,137.168267,X,base year is 2015
+KEN,2020-12-01,2020-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2020,2020,,148.979046,A,base year is 2015
+KEN,2021-12-01,2021-12-31,114,'404,Kenya,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2021,2021,,162.171320,A,base year is 2015
+KEN,2000-01-01,2000-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2000,2000,,29.442475,A,base year is 2015
+KEN,2001-01-01,2001-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2001,2001,,32.966821,A,base year is 2015
+KEN,2002-01-01,2002-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2002,2002,,33.118868,A,base year is 2015
+KEN,2003-01-01,2003-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2003,2003,,35.229127,A,base year is 2015
+KEN,2004-01-01,2004-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2004,2004,,38.449903,A,base year is 2015
+KEN,2005-01-01,2005-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2005,2005,,44.168436,A,base year is 2015
+KEN,2006-01-01,2006-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2006,2006,,47.766969,A,base year is 2015
+KEN,2007-01-01,2007-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2007,2007,,49.977486,A,base year is 2015
+KEN,2008-01-01,2008-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2008,2008,,53.942876,A,base year is 2015
+KEN,2009-01-01,2009-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2009,2009,,61.135482,A,base year is 2015
+KEN,2010-01-01,2010-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2010,2010,,65.735053,A,base year is 2015
+KEN,2011-01-01,2011-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2011,2011,,69.296027,A,base year is 2015
+KEN,2012-01-01,2012-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2012,2012,,81.983429,A,base year is 2015
+KEN,2013-01-01,2013-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2013,2013,,84.993119,A,base year is 2015
+KEN,2014-01-01,2014-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2014,2014,,91.122290,A,base year is 2015
+KEN,2015-01-01,2015-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2015,2015,,96.157900,A,base year is 2015
+KEN,2016-01-01,2016-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2016,2016,,103.636622,A,base year is 2015
+KEN,2017-01-01,2017-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2017,2017,,110.883929,A,base year is 2015
+KEN,2018-01-01,2018-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2018,2018,,116.235755,A,base year is 2015
+KEN,2019-01-01,2019-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2019,2019,,121.695599,A,base year is 2015
+KEN,2020-01-01,2020-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2020,2020,,130.683090,A,base year is 2015
+KEN,2021-01-01,2021-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2021,2021,,138.124171,A,base year is 2015
+KEN,2022-01-01,2022-01-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2022,2022,,145.566799,A,base year is 2015
+KEN,2000-02-01,2000-02-29,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2000,2000,,29.247863,A,base year is 2015
+KEN,2001-02-01,2001-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2001,2001,,32.222668,A,base year is 2015
+KEN,2002-02-01,2002-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2002,2002,,32.609323,A,base year is 2015
+KEN,2003-02-01,2003-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2003,2003,,35.036909,A,base year is 2015
+KEN,2004-02-01,2004-02-29,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2004,2004,,38.488582,A,base year is 2015
+KEN,2005-02-01,2005-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2005,2005,,43.853606,A,base year is 2015
+KEN,2006-02-01,2006-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2006,2006,,47.751661,A,base year is 2015
+KEN,2007-02-01,2007-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2007,2007,,49.241734,A,base year is 2015
+KEN,2008-02-01,2008-02-29,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2008,2008,,54.677727,A,base year is 2015
+KEN,2009-02-01,2009-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2009,2009,,62.670920,A,base year is 2015
+KEN,2010-02-01,2010-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2010,2010,,65.915918,A,base year is 2015
+KEN,2011-02-01,2011-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2011,2011,,70.223991,A,base year is 2015
+KEN,2012-02-01,2012-02-29,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2012,2012,,81.949936,A,base year is 2015
+KEN,2013-02-01,2013-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2013,2013,,85.600009,A,base year is 2015
+KEN,2014-02-01,2014-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2014,2014,,91.468798,A,base year is 2015
+KEN,2015-02-01,2015-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2015,2015,,96.598637,A,base year is 2015
+KEN,2016-02-01,2016-02-29,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2016,2016,,103.446873,A,base year is 2015
+KEN,2017-02-01,2017-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2017,2017,,112.793928,A,base year is 2015
+KEN,2018-02-01,2018-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2018,2018,,117.820347,A,base year is 2015
+KEN,2019-02-01,2019-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2019,2019,,122.694154,A,base year is 2015
+KEN,2020-02-01,2020-02-29,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2020,2020,,131.495866,A,base year is 2015
+KEN,2021-02-01,2021-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2021,2021,,139.092228,A,base year is 2015
+KEN,2022-02-01,2022-02-28,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2022,2022,,146.164319,A,base year is 2015
+KEN,2000-03-01,2000-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2000,2000,,29.168368,A,base year is 2015
+KEN,2001-03-01,2001-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2001,2001,,31.928603,A,base year is 2015
+KEN,2002-03-01,2002-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2002,2002,,32.575861,A,base year is 2015
+KEN,2003-03-01,2003-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2003,2003,,35.873325,A,base year is 2015
+KEN,2004-03-01,2004-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2004,2004,,38.858989,A,base year is 2015
+KEN,2005-03-01,2005-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2005,2005,,44.357453,A,base year is 2015
+KEN,2006-03-01,2006-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2006,2006,,48.020031,A,base year is 2015
+KEN,2007-03-01,2007-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2007,2007,,49.131078,A,base year is 2015
+KEN,2008-03-01,2008-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2008,2008,,55.289572,A,base year is 2015
+KEN,2009-03-01,2009-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2009,2009,,63.273552,A,base year is 2015
+KEN,2010-03-01,2010-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2010,2010,,65.783916,A,base year is 2015
+KEN,2011-03-01,2011-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2011,2011,,71.832235,A,base year is 2015
+KEN,2012-03-01,2012-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2012,2012,,83.047309,A,base year is 2015
+KEN,2013-03-01,2013-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2013,2013,,86.460943,A,base year is 2015
+KEN,2014-03-01,2014-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2014,2014,,91.880196,A,base year is 2015
+KEN,2015-03-01,2015-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2015,2015,,97.679783,A,base year is 2015
+KEN,2016-03-01,2016-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2016,2016,,103.982796,A,base year is 2015
+KEN,2017-03-01,2017-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2017,2017,,114.673140,A,base year is 2015
+KEN,2018-03-01,2018-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2018,2018,,119.461507,A,base year is 2015
+KEN,2019-03-01,2019-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2019,2019,,124.586329,A,base year is 2015
+KEN,2020-03-01,2020-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2020,2020,,131.865540,A,base year is 2015
+KEN,2021-03-01,2021-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2021,2021,,139.643125,A,base year is 2015
+KEN,2022-03-01,2022-03-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2022,2022,,147.403530,A,base year is 2015
+KEN,2000-04-01,2000-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2000,2000,,29.695409,A,base year is 2015
+KEN,2001-04-01,2001-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2001,2001,,32.398334,A,base year is 2015
+KEN,2002-04-01,2002-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2002,2002,,32.675894,A,base year is 2015
+KEN,2003-04-01,2003-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2003,2003,,36.477755,A,base year is 2015
+KEN,2004-04-01,2004-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2004,2004,,39.240341,A,base year is 2015
+KEN,2005-04-01,2005-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2005,2005,,45.526614,A,base year is 2015
+KEN,2006-04-01,2006-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2006,2006,,47.777103,A,base year is 2015
+KEN,2007-04-01,2007-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2007,2007,,48.733278,A,base year is 2015
+KEN,2008-04-01,2008-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2008,2008,,56.934824,A,base year is 2015
+KEN,2009-04-01,2009-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2009,2009,,63.822818,A,base year is 2015
+KEN,2010-04-01,2010-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2010,2010,,66.157561,A,base year is 2015
+KEN,2011-04-01,2011-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2011,2011,,74.132763,A,base year is 2015
+KEN,2012-04-01,2012-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2012,2012,,83.814143,A,base year is 2015
+KEN,2013-04-01,2013-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2013,2013,,87.285287,A,base year is 2015
+KEN,2014-04-01,2014-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2014,2014,,92.878394,A,base year is 2015
+KEN,2015-04-01,2015-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2015,2015,,99.456160,A,base year is 2015
+KEN,2016-04-01,2016-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2016,2016,,104.702078,A,base year is 2015
+KEN,2017-04-01,2017-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2017,2017,,116.721391,A,base year is 2015
+KEN,2018-04-01,2018-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2018,2018,,121.067683,A,base year is 2015
+KEN,2019-04-01,2019-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2019,2019,,125.569831,A,base year is 2015
+KEN,2020-04-01,2020-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2020,2020,,133.116934,A,base year is 2015
+KEN,2021-04-01,2021-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2021,2021,,140.786634,A,base year is 2015
+KEN,2022-04-01,2022-04-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2022,2022,,149.895448,A,base year is 2015
+KEN,2000-05-01,2000-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2000,2000,,30.702020,A,base year is 2015
+KEN,2001-05-01,2001-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2001,2001,,32.831505,A,base year is 2015
+KEN,2002-05-01,2002-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2002,2002,,33.391504,A,base year is 2015
+KEN,2003-05-01,2003-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2003,2003,,38.371918,A,base year is 2015
+KEN,2004-05-01,2004-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2004,2004,,40.156441,A,base year is 2015
+KEN,2005-05-01,2005-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2005,2005,,46.091012,A,base year is 2015
+KEN,2006-05-01,2006-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2006,2006,,47.930357,A,base year is 2015
+KEN,2007-05-01,2007-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2007,2007,,48.933134,A,base year is 2015
+KEN,2008-05-01,2008-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2008,2008,,58.082768,A,base year is 2015
+KEN,2009-05-01,2009-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2009,2009,,63.823168,A,base year is 2015
+KEN,2010-05-01,2010-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2010,2010,,66.297446,A,base year is 2015
+KEN,2011-05-01,2011-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2011,2011,,74.882199,A,base year is 2015
+KEN,2012-05-01,2012-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2012,2012,,84.034029,A,base year is 2015
+KEN,2013-05-01,2013-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2013,2013,,87.438864,A,base year is 2015
+KEN,2014-05-01,2014-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2014,2014,,93.820531,A,base year is 2015
+KEN,2015-05-01,2015-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2015,2015,,100.262544,A,base year is 2015
+KEN,2016-05-01,2016-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2016,2016,,105.279346,A,base year is 2015
+KEN,2017-05-01,2017-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2017,2017,,117.592631,A,base year is 2015
+KEN,2018-05-01,2018-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2018,2018,,122.240019,A,base year is 2015
+KEN,2019-05-01,2019-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2019,2019,,126.504483,A,base year is 2015
+KEN,2020-05-01,2020-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2020,2020,,133.247970,A,base year is 2015
+KEN,2021-05-01,2021-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2021,2021,,141.070058,A,base year is 2015
+KEN,2022-05-01,2022-05-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2022,2022,,151.061043,A,base year is 2015
+KEN,2000-06-01,2000-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2000,2000,,31.730150,A,base year is 2015
+KEN,2001-06-01,2001-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2001,2001,,33.192111,A,base year is 2015
+KEN,2002-06-01,2002-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2002,2002,,34.137970,A,base year is 2015
+KEN,2003-06-01,2003-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2003,2003,,38.828379,A,base year is 2015
+KEN,2004-06-01,2004-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2004,2004,,41.136239,A,base year is 2015
+KEN,2005-06-01,2005-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2005,2005,,46.038659,A,base year is 2015
+KEN,2006-06-01,2006-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2006,2006,,47.906087,A,base year is 2015
+KEN,2007-06-01,2007-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2007,2007,,49.844212,A,base year is 2015
+KEN,2008-06-01,2008-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2008,2008,,58.215061,A,base year is 2015
+KEN,2009-06-01,2009-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2009,2009,,63.955844,A,base year is 2015
+KEN,2010-06-01,2010-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2010,2010,,66.186611,A,base year is 2015
+KEN,2011-06-01,2011-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2011,2011,,75.773667,A,base year is 2015
+KEN,2012-06-01,2012-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2012,2012,,83.387915,A,base year is 2015
+KEN,2013-06-01,2013-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2013,2013,,87.483043,A,base year is 2015
+KEN,2014-06-01,2014-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2014,2014,,93.950468,A,base year is 2015
+KEN,2015-06-01,2015-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2015,2015,,100.558720,A,base year is 2015
+KEN,2016-06-01,2016-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2016,2016,,106.389128,A,base year is 2015
+KEN,2017-06-01,2017-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2017,2017,,116.183666,A,base year is 2015
+KEN,2018-06-01,2018-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2018,2018,,121.151805,A,base year is 2015
+KEN,2019-06-01,2019-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2019,2019,,127.011368,A,base year is 2015
+KEN,2020-06-01,2020-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2020,2020,,132.835563,A,base year is 2015
+KEN,2021-06-01,2021-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2021,2021,,141.233241,A,base year is 2015
+KEN,2022-06-01,2022-06-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2022,2022,,152.410678,A,base year is 2015
+KEN,2000-07-01,2000-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2000,2000,,32.085794,A,base year is 2015
+KEN,2001-07-01,2001-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2001,2001,,33.452751,A,base year is 2015
+KEN,2002-07-01,2002-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2002,2002,,34.160519,A,base year is 2015
+KEN,2003-07-01,2003-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2003,2003,,37.888181,A,base year is 2015
+KEN,2004-07-01,2004-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2004,2004,,41.123410,A,base year is 2015
+KEN,2005-07-01,2005-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2005,2005,,45.960559,A,base year is 2015
+KEN,2006-07-01,2006-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2006,2006,,47.817176,A,base year is 2015
+KEN,2007-07-01,2007-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2007,2007,,50.396359,A,base year is 2015
+KEN,2008-07-01,2008-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2008,2008,,58.124422,A,base year is 2015
+KEN,2009-07-01,2009-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2009,2009,,64.131530,A,base year is 2015
+KEN,2010-07-01,2010-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2010,2010,,66.418559,A,base year is 2015
+KEN,2011-07-01,2011-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2011,2011,,76.736475,A,base year is 2015
+KEN,2012-07-01,2012-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2012,2012,,82.676118,A,base year is 2015
+KEN,2013-07-01,2013-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2013,2013,,87.656447,A,base year is 2015
+KEN,2014-07-01,2014-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2014,2014,,94.381079,A,base year is 2015
+KEN,2015-07-01,2015-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2015,2015,,100.630827,A,base year is 2015
+KEN,2016-07-01,2016-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2016,2016,,107.064784,A,base year is 2015
+KEN,2017-07-01,2017-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2017,2017,,115.063402,A,base year is 2015
+KEN,2018-07-01,2018-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2018,2018,,120.069856,A,base year is 2015
+KEN,2019-07-01,2019-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2019,2019,,127.389942,A,base year is 2015
+KEN,2020-07-01,2020-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2020,2020,,132.943984,A,base year is 2015
+KEN,2021-07-01,2021-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2021,2021,,141.645493,A,base year is 2015
+KEN,2022-07-01,2022-07-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2022,2022,,153.429040,A,base year is 2015
+KEN,2000-08-01,2000-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2000,2000,,32.389667,A,base year is 2015
+KEN,2001-08-01,2001-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2001,2001,,33.695347,A,base year is 2015
+KEN,2002-08-01,2002-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2002,2002,,34.305208,A,base year is 2015
+KEN,2003-08-01,2003-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2003,2003,,37.141954,A,base year is 2015
+KEN,2004-08-01,2004-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2004,2004,,43.012006,A,base year is 2015
+KEN,2005-08-01,2005-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2005,2005,,45.967222,A,base year is 2015
+KEN,2006-08-01,2006-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2006,2006,,48.176526,A,base year is 2015
+KEN,2007-08-01,2007-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2007,2007,,50.677415,A,base year is 2015
+KEN,2008-08-01,2008-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2008,2008,,58.777750,A,base year is 2015
+KEN,2009-08-01,2009-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2009,2009,,64.513645,A,base year is 2015
+KEN,2010-08-01,2010-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2010,2010,,66.590122,A,base year is 2015
+KEN,2011-08-01,2011-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2011,2011,,77.693166,A,base year is 2015
+KEN,2012-08-01,2012-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2012,2012,,82.421247,A,base year is 2015
+KEN,2013-08-01,2013-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2013,2013,,87.922706,A,base year is 2015
+KEN,2014-08-01,2014-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2014,2014,,95.272132,A,base year is 2015
+KEN,2015-08-01,2015-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2015,2015,,100.838012,A,base year is 2015
+KEN,2016-08-01,2016-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2016,2016,,107.147664,A,base year is 2015
+KEN,2017-08-01,2017-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2017,2017,,115.766898,A,base year is 2015
+KEN,2018-08-01,2018-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2018,2018,,120.440701,A,base year is 2015
+KEN,2019-08-01,2019-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2019,2019,,127.649262,A,base year is 2015
+KEN,2020-08-01,2020-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2020,2020,,133.212736,A,base year is 2015
+KEN,2021-08-01,2021-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2021,2021,,141.969406,A,base year is 2015
+KEN,2022-08-01,2022-08-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2022,2022,,154.079319,A,base year is 2015
+KEN,2000-09-01,2000-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2000,2000,,32.587132,A,base year is 2015
+KEN,2001-09-01,2001-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2001,2001,,33.590769,A,base year is 2015
+KEN,2002-09-01,2002-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2002,2002,,34.187286,A,base year is 2015
+KEN,2003-09-01,2003-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2003,2003,,36.884788,A,base year is 2015
+KEN,2004-09-01,2004-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2004,2004,,43.879109,A,base year is 2015
+KEN,2005-09-01,2005-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2005,2005,,45.750767,A,base year is 2015
+KEN,2006-09-01,2006-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2006,2006,,48.398357,A,base year is 2015
+KEN,2007-09-01,2007-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2007,2007,,51.035668,A,base year is 2015
+KEN,2008-09-01,2008-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2008,2008,,59.362403,A,base year is 2015
+KEN,2009-09-01,2009-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2009,2009,,64.816521,A,base year is 2015
+KEN,2010-09-01,2010-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2010,2010,,66.894241,A,base year is 2015
+KEN,2011-09-01,2011-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2011,2011,,78.482249,A,base year is 2015
+KEN,2012-09-01,2012-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2012,2012,,82.657396,A,base year is 2015
+KEN,2013-09-01,2013-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2013,2013,,89.507599,A,base year is 2015
+KEN,2014-09-01,2014-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2014,2014,,95.412572,A,base year is 2015
+KEN,2015-09-01,2015-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2015,2015,,101.105837,A,base year is 2015
+KEN,2016-09-01,2016-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2016,2016,,107.515546,A,base year is 2015
+KEN,2017-09-01,2017-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2017,2017,,115.101319,A,base year is 2015
+KEN,2018-09-01,2018-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2018,2018,,121.666992,A,base year is 2015
+KEN,2019-09-01,2019-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2019,2019,,127.843131,A,base year is 2015
+KEN,2020-09-01,2020-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2020,2020,,133.210389,A,base year is 2015
+KEN,2021-09-01,2021-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2021,2021,,142.419693,A,base year is 2015
+KEN,2022-09-01,2022-09-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2022,2022,,155.490302,A,base year is 2015
+KEN,2000-10-01,2000-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2000,2000,,32.475300,A,base year is 2015
+KEN,2001-10-01,2001-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2001,2001,,33.519370,A,base year is 2015
+KEN,2002-10-01,2002-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2002,2002,,34.152866,A,base year is 2015
+KEN,2003-10-01,2003-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2003,2003,,37.254024,A,base year is 2015
+KEN,2004-10-01,2004-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2004,2004,,44.069358,A,base year is 2015
+KEN,2005-10-01,2005-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2005,2005,,45.708587,A,base year is 2015
+KEN,2006-10-01,2006-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2006,2006,,48.592354,A,base year is 2015
+KEN,2007-10-01,2007-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2007,2007,,51.176802,A,base year is 2015
+KEN,2008-10-01,2008-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2008,2008,,59.722188,A,base year is 2015
+KEN,2009-10-01,2009-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2009,2009,,64.975703,A,base year is 2015
+KEN,2010-10-01,2010-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2010,2010,,67.038739,A,base year is 2015
+KEN,2011-10-01,2011-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2011,2011,,79.717650,A,base year is 2015
+KEN,2012-10-01,2012-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2012,2012,,83.014826,A,base year is 2015
+KEN,2013-10-01,2013-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2013,2013,,89.460818,A,base year is 2015
+KEN,2014-10-01,2014-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2014,2014,,95.209332,A,base year is 2015
+KEN,2015-10-01,2015-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2015,2015,,101.608715,A,base year is 2015
+KEN,2016-10-01,2016-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2016,2016,,108.185083,A,base year is 2015
+KEN,2017-10-01,2017-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2017,2017,,114.375272,A,base year is 2015
+KEN,2018-10-01,2018-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2018,2018,,120.701140,A,base year is 2015
+KEN,2019-10-01,2019-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2019,2019,,128.267583,A,base year is 2015
+KEN,2020-10-01,2020-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2020,2020,,134.477701,A,base year is 2015
+KEN,2021-10-01,2021-10-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2021,2021,,143.152178,A,base year is 2015
+KEN,2000-11-01,2000-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2000,2000,,32.761753,A,base year is 2015
+KEN,2001-11-01,2001-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2001,2001,,33.465629,A,base year is 2015
+KEN,2002-11-01,2002-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2002,2002,,34.326162,A,base year is 2015
+KEN,2003-11-01,2003-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2003,2003,,37.406773,A,base year is 2015
+KEN,2004-11-01,2004-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2004,2004,,43.914989,A,base year is 2015
+KEN,2005-11-01,2005-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2005,2005,,45.953989,A,base year is 2015
+KEN,2006-11-01,2006-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2006,2006,,48.769567,A,base year is 2015
+KEN,2007-11-01,2007-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2007,2007,,51.683936,A,base year is 2015
+KEN,2008-11-01,2008-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2008,2008,,60.761716,A,base year is 2015
+KEN,2009-11-01,2009-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2009,2009,,65.098977,A,base year is 2015
+KEN,2010-11-01,2010-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2010,2010,,67.598784,A,base year is 2015
+KEN,2011-11-01,2011-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2011,2011,,80.926380,A,base year is 2015
+KEN,2012-11-01,2012-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2012,2012,,83.558357,A,base year is 2015
+KEN,2013-11-01,2013-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2013,2013,,89.706533,A,base year is 2015
+KEN,2014-11-01,2014-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2014,2014,,95.166316,A,base year is 2015
+KEN,2015-11-01,2015-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2015,2015,,102.135033,A,base year is 2015
+KEN,2016-11-01,2016-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2016,2016,,108.955593,A,base year is 2015
+KEN,2017-11-01,2017-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2017,2017,,114.111211,A,base year is 2015
+KEN,2018-11-01,2018-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2018,2018,,120.483925,A,base year is 2015
+KEN,2019-11-01,2019-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2019,2019,,129.036992,A,base year is 2015
+KEN,2020-11-01,2020-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2020,2020,,135.919357,A,base year is 2015
+KEN,2021-11-01,2021-11-30,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2021,2021,,143.801230,A,base year is 2015
+KEN,2000-12-01,2000-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2000,2000,,32.917296,A,base year is 2015
+KEN,2001-12-01,2001-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2001,2001,,33.444645,A,base year is 2015
+KEN,2002-12-01,2002-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2002,2002,,34.865005,A,base year is 2015
+KEN,2003-12-01,2003-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2003,2003,,37.776110,A,base year is 2015
+KEN,2004-12-01,2004-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2004,2004,,44.229256,A,base year is 2015
+KEN,2005-12-01,2005-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2005,2005,,46.401777,A,base year is 2015
+KEN,2006-12-01,2006-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2006,2006,,49.796452,A,base year is 2015
+KEN,2007-12-01,2007-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2007,2007,,52.585239,A,base year is 2015
+KEN,2008-12-01,2008-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2008,2008,,60.724580,A,base year is 2015
+KEN,2009-12-01,2009-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2009,2009,,65.592078,A,base year is 2015
+KEN,2010-12-01,2010-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2010,2010,,68.549452,A,base year is 2015
+KEN,2011-12-01,2011-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2011,2011,,81.528505,A,base year is 2015
+KEN,2012-12-01,2012-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2012,2012,,84.137706,A,base year is 2015
+KEN,2013-12-01,2013-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2013,2013,,90.152294,A,base year is 2015
+KEN,2014-12-01,2014-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2014,2014,,95.578448,A,base year is 2015
+KEN,2015-12-01,2015-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2015,2015,,103.231435,A,base year is 2015
+KEN,2016-12-01,2016-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2016,2016,,109.786190,A,base year is 2015
+KEN,2017-12-01,2017-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2017,2017,,114.721717,A,base year is 2015
+KEN,2018-12-01,2018-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2018,2018,,121.272994,A,base year is 2015
+KEN,2019-12-01,2019-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2019,2019,,129.952547,A,base year is 2015
+KEN,2020-12-01,2020-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2020,2020,,137.253043,A,base year is 2015
+KEN,2021-12-01,2021-12-31,114,'404,Kenya,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2021,2021,,145.115284,A,base year is 2015
+KEN,2001-01-01,2001-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2001,2001,%,16.136017,E,
+KEN,2002-01-01,2002-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2002,2002,%,0.610673,E,
+KEN,2003-01-01,2003-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2003,2003,%,8.515932,E,
+KEN,2004-01-01,2004-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2004,2004,%,12.271183,E,
+KEN,2005-01-01,2005-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2005,2005,%,20.135589,E,
+KEN,2006-01-01,2006-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2006,2006,%,10.918882,E,
+KEN,2007-01-01,2007-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2007,2007,%,6.168138,E,
+KEN,2008-01-01,2008-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2008,2008,%,10.630013,E,
+KEN,2009-01-01,2009-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2009,2009,%,18.010781,E,
+KEN,2010-01-01,2010-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2010,2010,%,9.260226,E,
+KEN,2011-01-01,2011-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2011,2011,%,8.550951,E,
+KEN,2012-01-01,2012-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2012,2012,%,24.573932,E,
+KEN,2013-01-01,2013-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2013,2013,%,2.398595,E,
+KEN,2014-01-01,2014-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2014,2014,%,10.142114,E,
+KEN,2015-01-01,2015-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2015,2015,%,7.674199,E,
+KEN,2016-01-01,2016-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2016,2016,%,12.706863,E,
+KEN,2017-01-01,2017-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2017,2017,%,12.540708,E,
+KEN,2018-01-01,2018-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2018,2018,%,4.705970,E,
+KEN,2019-01-01,2019-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2019,2019,%,1.615081,E,
+KEN,2020-01-01,2020-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2020,2020,%,9.595964,E,
+KEN,2021-01-01,2021-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2021,2021,%,9.552471,E,
+KEN,2022-01-01,2022-01-31,114,'404,Kenya,23014,Food price inflation,7001,January,2022,2022,%,8.650869,E,
+KEN,2001-02-01,2001-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2001,2001,%,13.673317,E,
+KEN,2002-02-01,2002-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2002,2002,%,1.590695,E,
+KEN,2003-02-01,2003-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2003,2003,%,9.966139,E,
+KEN,2004-02-01,2004-02-29,114,'404,Kenya,23014,Food price inflation,7002,February,2004,2004,%,13.237379,E,
+KEN,2005-02-01,2005-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2005,2005,%,18.845709,E,
+KEN,2006-02-01,2006-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2006,2006,%,11.926192,E,
+KEN,2007-02-01,2007-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2007,2007,%,4.149294,E,
+KEN,2008-02-01,2008-02-29,114,'404,Kenya,23014,Food price inflation,7002,February,2008,2008,%,14.860290,E,
+KEN,2009-02-01,2009-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2009,2009,%,18.758062,E,
+KEN,2010-02-01,2010-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2010,2010,%,7.249300,E,
+KEN,2011-02-01,2011-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2011,2011,%,9.818114,E,
+KEN,2012-02-01,2012-02-29,114,'404,Kenya,23014,Food price inflation,7002,February,2012,2012,%,22.071723,E,
+KEN,2013-02-01,2013-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2013,2013,%,4.033481,E,
+KEN,2014-02-01,2014-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2014,2014,%,9.136545,E,
+KEN,2015-02-01,2015-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2015,2015,%,8.696157,E,
+KEN,2016-02-01,2016-02-29,114,'404,Kenya,23014,Food price inflation,7002,February,2016,2016,%,10.769972,E,
+KEN,2017-02-01,2017-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2017,2017,%,16.504823,E,
+KEN,2018-02-01,2018-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2018,2018,%,3.834557,E,
+KEN,2019-02-01,2019-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2019,2019,%,1.094740,E,
+KEN,2020-02-01,2020-02-29,114,'404,Kenya,23014,Food price inflation,7002,February,2020,2020,%,10.575942,E,
+KEN,2021-02-01,2021-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2021,2021,%,7.844566,E,
+KEN,2022-02-01,2022-02-28,114,'404,Kenya,23014,Food price inflation,7002,February,2022,2022,%,8.457253,E,
+KEN,2001-03-01,2001-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2001,2001,%,12.707930,E,
+KEN,2002-03-01,2002-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2002,2002,%,2.690896,E,
+KEN,2003-03-01,2003-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2003,2003,%,13.606973,E,
+KEN,2004-03-01,2004-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2004,2004,%,11.157100,E,
+KEN,2005-03-01,2005-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2005,2005,%,19.136330,E,
+KEN,2006-03-01,2006-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2006,2006,%,11.067721,E,
+KEN,2007-03-01,2007-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2007,2007,%,3.072616,E,
+KEN,2008-03-01,2008-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2008,2008,%,16.911379,E,
+KEN,2009-03-01,2009-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2009,2009,%,19.122585,E,
+KEN,2010-03-01,2010-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2010,2010,%,4.490214,E,
+KEN,2011-03-01,2011-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2011,2011,%,15.092824,E,
+KEN,2012-03-01,2012-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2012,2012,%,20.311394,E,
+KEN,2013-03-01,2013-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2013,2013,%,2.926665,E,
+KEN,2014-03-01,2014-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2014,2014,%,8.286955,E,
+KEN,2015-03-01,2015-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2015,2015,%,10.955497,E,
+KEN,2016-03-01,2016-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2016,2016,%,9.409829,E,
+KEN,2017-03-01,2017-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2017,2017,%,18.556088,E,
+KEN,2018-03-01,2018-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2018,2018,%,2.191072,E,
+KEN,2019-03-01,2019-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2019,2019,%,2.841198,E,
+KEN,2020-03-01,2020-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2020,2020,%,7.634441,E,
+KEN,2021-03-01,2021-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2021,2021,%,7.630056,E,
+KEN,2022-03-01,2022-03-31,114,'404,Kenya,23014,Food price inflation,7003,March,2022,2022,%,9.689354,E,
+KEN,2001-04-01,2001-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2001,2001,%,12.216470,E,
+KEN,2002-04-01,2002-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2002,2002,%,1.135065,E,
+KEN,2003-04-01,2003-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2003,2003,%,15.676221,E,
+KEN,2004-04-01,2004-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2004,2004,%,10.140707,E,
+KEN,2005-04-01,2005-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2005,2005,%,21.725574,E,
+KEN,2006-04-01,2006-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2006,2006,%,6.591961,E,
+KEN,2007-04-01,2007-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2007,2007,%,2.656436,E,
+KEN,2008-04-01,2008-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2008,2008,%,22.850591,E,
+KEN,2009-04-01,2009-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2009,2009,%,16.752453,E,
+KEN,2010-04-01,2010-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2010,2010,%,3.785526,E,
+KEN,2011-04-01,2011-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2011,2011,%,19.139456,E,
+KEN,2012-04-01,2012-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2012,2012,%,16.241581,E,
+KEN,2013-04-01,2013-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2013,2013,%,3.569745,E,
+KEN,2014-04-01,2014-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2014,2014,%,8.086074,E,
+KEN,2015-04-01,2015-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2015,2015,%,13.419560,E,
+KEN,2016-04-01,2016-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2016,2016,%,6.840008,E,
+KEN,2017-04-01,2017-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2017,2017,%,20.984286,E,
+KEN,2018-04-01,2018-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2018,2018,%,0.255402,E,
+KEN,2019-04-01,2019-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2019,2019,%,8.172581,E,
+KEN,2020-04-01,2020-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2020,2020,%,2.508864,E,
+KEN,2021-04-01,2021-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2021,2021,%,7.587753,E,
+KEN,2022-04-01,2022-04-30,114,'404,Kenya,23014,Food price inflation,7004,April,2022,2022,%,11.091066,E,
+KEN,2001-05-01,2001-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2001,2001,%,9.278117,E,
+KEN,2002-05-01,2002-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2002,2002,%,2.262944,E,
+KEN,2003-05-01,2003-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2003,2003,%,20.194437,E,
+KEN,2004-05-01,2004-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2004,2004,%,6.198866,E,
+KEN,2005-05-01,2005-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2005,2005,%,20.005455,E,
+KEN,2006-05-01,2006-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2006,2006,%,5.313731,E,
+KEN,2007-05-01,2007-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2007,2007,%,2.777400,E,
+KEN,2008-05-01,2008-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2008,2008,%,25.457266,E,
+KEN,2009-05-01,2009-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2009,2009,%,13.498530,E,
+KEN,2010-05-01,2010-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2010,2010,%,4.441390,E,
+KEN,2011-05-01,2011-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2011,2011,%,20.123270,E,
+KEN,2012-05-01,2012-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2012,2012,%,14.573902,E,
+KEN,2013-05-01,2013-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2013,2013,%,4.278475,E,
+KEN,2014-05-01,2014-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2014,2014,%,8.887154,E,
+KEN,2015-05-01,2015-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2015,2015,%,13.203172,E,
+KEN,2016-05-01,2016-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2016,2016,%,6.587677,E,
+KEN,2017-05-01,2017-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2017,2017,%,21.519862,E,
+KEN,2018-05-01,2018-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2018,2018,%,0.343044,E,
+KEN,2019-05-01,2019-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2019,2019,%,6.332597,E,
+KEN,2020-05-01,2020-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2020,2020,%,3.775526,E,
+KEN,2021-05-01,2021-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2021,2021,%,7.011733,E,
+KEN,2022-05-01,2022-05-31,114,'404,Kenya,23014,Food price inflation,7005,May,2022,2022,%,12.176285,E,
+KEN,2001-06-01,2001-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2001,2001,%,6.140986,E,
+KEN,2002-06-01,2002-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2002,2002,%,3.787563,E,
+KEN,2003-06-01,2003-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2003,2003,%,18.570194,E,
+KEN,2004-06-01,2004-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2004,2004,%,7.938577,E,
+KEN,2005-06-01,2005-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2005,2005,%,16.063624,E,
+KEN,2006-06-01,2006-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2006,2006,%,5.401554,E,
+KEN,2007-06-01,2007-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2007,2007,%,5.387426,E,
+KEN,2008-06-01,2008-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2008,2008,%,22.801297,E,
+KEN,2009-06-01,2009-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2009,2009,%,12.887525,E,
+KEN,2010-06-01,2010-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2010,2010,%,4.373094,E,
+KEN,2011-06-01,2011-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2011,2011,%,22.515586,E,
+KEN,2012-06-01,2012-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2012,2012,%,10.528196,E,
+KEN,2013-06-01,2013-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2013,2013,%,6.497205,E,
+KEN,2014-06-01,2014-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2014,2014,%,8.409911,E,
+KEN,2015-06-01,2015-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2015,2015,%,13.385336,E,
+KEN,2016-06-01,2016-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2016,2016,%,8.891537,E,
+KEN,2017-06-01,2017-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2017,2017,%,15.810845,E,
+KEN,2018-06-01,2018-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2018,2018,%,0.900264,E,
+KEN,2019-06-01,2019-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2019,2019,%,6.979094,E,
+KEN,2020-06-01,2020-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2020,2020,%,4.124473,E,
+KEN,2021-06-01,2021-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2021,2021,%,8.453297,E,
+KEN,2022-06-01,2022-06-30,114,'404,Kenya,23014,Food price inflation,7006,June,2022,2022,%,13.454328,E,
+KEN,2001-07-01,2001-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2001,2001,%,5.675173,E,
+KEN,2002-07-01,2002-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2002,2002,%,2.808799,E,
+KEN,2003-07-01,2003-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2003,2003,%,14.686222,E,
+KEN,2004-07-01,2004-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2004,2004,%,11.450578,E,
+KEN,2005-07-01,2005-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2005,2005,%,15.850993,E,
+KEN,2006-07-01,2006-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2006,2006,%,5.379269,E,
+KEN,2007-07-01,2007-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2007,2007,%,7.197933,E,
+KEN,2008-07-01,2008-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2008,2008,%,20.775104,E,
+KEN,2009-07-01,2009-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2009,2009,%,13.450842,E,
+KEN,2010-07-01,2010-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2010,2010,%,4.554223,E,
+KEN,2011-07-01,2011-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2011,2011,%,24.029908,E,
+KEN,2012-07-01,2012-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2012,2012,%,6.624222,E,
+KEN,2013-07-01,2013-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2013,2013,%,8.437078,E,
+KEN,2014-07-01,2014-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2014,2014,%,9.058589,E,
+KEN,2015-07-01,2015-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2015,2015,%,12.140679,E,
+KEN,2016-07-01,2016-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2016,2016,%,10.777348,E,
+KEN,2017-07-01,2017-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2017,2017,%,12.187486,E,
+KEN,2018-07-01,2018-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2018,2018,%,0.531533,E,
+KEN,2019-07-01,2019-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2019,2019,%,8.471503,E,
+KEN,2020-07-01,2020-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2020,2020,%,4.378638,E,
+KEN,2021-07-01,2021-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2021,2021,%,8.825012,E,
+KEN,2022-07-01,2022-07-31,114,'404,Kenya,23014,Food price inflation,7007,July,2022,2022,%,15.232395,E,
+KEN,2001-08-01,2001-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2001,2001,%,5.367976,E,
+KEN,2002-08-01,2002-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2002,2002,%,2.401649,E,
+KEN,2003-08-01,2003-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2003,2003,%,11.084256,E,
+KEN,2004-08-01,2004-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2004,2004,%,21.426444,E,
+KEN,2005-08-01,2005-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2005,2005,%,9.189838,E,
+KEN,2006-08-01,2006-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2006,2006,%,6.407917,E,
+KEN,2007-08-01,2007-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2007,2007,%,6.925174,E,
+KEN,2008-08-01,2008-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2008,2008,%,21.675866,E,
+KEN,2009-08-01,2009-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2009,2009,%,12.940824,E,
+KEN,2010-08-01,2010-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2010,2010,%,5.469798,E,
+KEN,2011-08-01,2011-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2011,2011,%,23.865030,E,
+KEN,2012-08-01,2012-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2012,2012,%,3.618097,E,
+KEN,2013-08-01,2013-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2013,2013,%,9.735322,E,
+KEN,2014-08-01,2014-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2014,2014,%,10.853971,E,
+KEN,2015-08-01,2015-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2015,2015,%,9.927707,E,
+KEN,2016-08-01,2016-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2016,2016,%,10.853272,E,
+KEN,2017-08-01,2017-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2017,2017,%,13.572573,E,
+KEN,2018-08-01,2018-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2018,2018,%,-1.154977,E,
+KEN,2019-08-01,2019-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2019,2019,%,7.127504,E,
+KEN,2020-08-01,2020-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2020,2020,%,5.312537,E,
+KEN,2021-08-01,2021-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2021,2021,%,10.441062,E,
+KEN,2022-08-01,2022-08-31,114,'404,Kenya,23014,Food price inflation,7008,August,2022,2022,%,15.278277,E,
+KEN,2001-09-01,2001-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2001,2001,%,4.095033,E,
+KEN,2002-09-01,2002-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2002,2002,%,2.356289,E,
+KEN,2003-09-01,2003-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2003,2003,%,10.570364,E,
+KEN,2004-09-01,2004-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2004,2004,%,25.827110,E,
+KEN,2005-09-01,2005-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2005,2005,%,5.682105,E,
+KEN,2006-09-01,2006-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2006,2006,%,7.727316,E,
+KEN,2007-09-01,2007-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2007,2007,%,7.272400,E,
+KEN,2008-09-01,2008-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2008,2008,%,22.136075,E,
+KEN,2009-09-01,2009-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2009,2009,%,11.887199,E,
+KEN,2010-09-01,2010-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2010,2010,%,5.678721,E,
+KEN,2011-09-01,2011-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2011,2011,%,24.370164,E,
+KEN,2012-09-01,2012-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2012,2012,%,2.910029,E,
+KEN,2013-09-01,2013-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2013,2013,%,12.550930,E,
+KEN,2014-09-01,2014-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2014,2014,%,8.395393,E,
+KEN,2015-09-01,2015-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2015,2015,%,9.812040,E,
+KEN,2016-09-01,2016-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2016,2016,%,10.937076,E,
+KEN,2017-09-01,2017-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2017,2017,%,11.497822,E,
+KEN,2018-09-01,2018-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2018,2018,%,0.501871,E,
+KEN,2019-09-01,2019-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2019,2019,%,6.305282,E,
+KEN,2020-09-01,2020-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2020,2020,%,5.892684,E,
+KEN,2021-09-01,2021-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2021,2021,%,10.396951,E,
+KEN,2022-09-01,2022-09-30,114,'404,Kenya,23014,Food price inflation,7009,September,2022,2022,%,15.497065,E,
+KEN,2001-10-01,2001-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2001,2001,%,4.275592,E,
+KEN,2002-10-01,2002-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2002,2002,%,2.508148,E,
+KEN,2003-10-01,2003-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2003,2003,%,12.186618,E,
+KEN,2004-10-01,2004-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2004,2004,%,24.892594,E,
+KEN,2005-10-01,2005-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2005,2005,%,4.950735,E,
+KEN,2006-10-01,2006-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2006,2006,%,8.431246,E,
+KEN,2007-10-01,2007-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2007,2007,%,7.096731,E,
+KEN,2008-10-01,2008-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2008,2008,%,22.667416,E,
+KEN,2009-10-01,2009-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2009,2009,%,11.279240,E,
+KEN,2010-10-01,2010-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2010,2010,%,5.622877,E,
+KEN,2011-10-01,2011-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2011,2011,%,26.205373,E,
+KEN,2012-10-01,2012-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2012,2012,%,1.440047,E,
+KEN,2013-10-01,2013-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2013,2013,%,12.029701,E,
+KEN,2014-10-01,2014-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2014,2014,%,8.164692,E,
+KEN,2015-10-01,2015-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2015,2015,%,11.274004,E,
+KEN,2016-10-01,2016-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2016,2016,%,11.032157,E,
+KEN,2017-10-01,2017-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2017,2017,%,8.468820,E,
+KEN,2018-10-01,2018-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2018,2018,%,0.516706,E,
+KEN,2019-10-01,2019-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2019,2019,%,8.735561,E,
+KEN,2020-10-01,2020-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2020,2020,%,6.587250,E,
+KEN,2021-10-01,2021-10-31,114,'404,Kenya,23014,Food price inflation,7010,October,2021,2021,%,10.364206,E,
+KEN,2001-11-01,2001-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2001,2001,%,2.852415,E,
+KEN,2002-11-01,2002-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2002,2002,%,3.416213,E,
+KEN,2003-11-01,2003-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2003,2003,%,12.042810,E,
+KEN,2004-11-01,2004-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2004,2004,%,23.642900,E,
+KEN,2005-11-01,2005-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2005,2005,%,6.188752,E,
+KEN,2006-11-01,2006-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2006,2006,%,8.185602,E,
+KEN,2007-11-01,2007-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2007,2007,%,7.981780,E,
+KEN,2008-11-01,2008-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2008,2008,%,23.873610,E,
+KEN,2009-11-01,2009-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2009,2009,%,9.122450,E,
+KEN,2010-11-01,2010-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2010,2010,%,6.708640,E,
+KEN,2011-11-01,2011-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2011,2011,%,26.202741,E,
+KEN,2012-11-01,2012-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2012,2012,%,1.732054,E,
+KEN,2013-11-01,2013-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2013,2013,%,10.656654,E,
+KEN,2014-11-01,2014-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2014,2014,%,7.538606,E,
+KEN,2015-11-01,2015-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2015,2015,%,12.673713,E,
+KEN,2016-11-01,2016-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2016,2016,%,11.132922,E,
+KEN,2017-11-01,2017-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2017,2017,%,5.786307,E,
+KEN,2018-11-01,2018-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2018,2018,%,1.724423,E,
+KEN,2019-11-01,2019-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2019,2019,%,9.577483,E,
+KEN,2020-11-01,2020-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2020,2020,%,7.556986,E,
+KEN,2021-11-01,2021-11-30,114,'404,Kenya,23014,Food price inflation,7011,November,2021,2021,%,9.679456,E,
+KEN,2001-12-01,2001-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2001,2001,%,2.125098,E,
+KEN,2002-12-01,2002-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2002,2002,%,5.657176,E,
+KEN,2003-12-01,2003-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2003,2003,%,11.193555,E,
+KEN,2004-12-01,2004-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2004,2004,%,23.202918,E,
+KEN,2005-12-01,2005-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2005,2005,%,6.549924,E,
+KEN,2006-12-01,2006-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2006,2006,%,9.791994,E,
+KEN,2007-12-01,2007-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2007,2007,%,7.475957,E,
+KEN,2008-12-01,2008-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2008,2008,%,20.974391,E,
+KEN,2009-12-01,2009-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2009,2009,%,9.975685,E,
+KEN,2010-12-01,2010-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2010,2010,%,7.831898,E,
+KEN,2011-12-01,2011-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2011,2011,%,24.981839,E,
+KEN,2012-12-01,2012-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2012,2012,%,1.726075,E,
+KEN,2013-12-01,2013-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2013,2013,%,10.410955,E,
+KEN,2014-12-01,2014-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2014,2014,%,7.710481,E,
+KEN,2015-12-01,2015-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2015,2015,%,13.258103,E,
+KEN,2016-12-01,2016-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2016,2016,%,11.223742,E,
+KEN,2017-12-01,2017-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2017,2017,%,4.675321,E,
+KEN,2018-12-01,2018-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2018,2018,%,2.538532,E,
+KEN,2019-12-01,2019-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2019,2019,%,10.017682,E,
+KEN,2020-12-01,2020-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2020,2020,%,8.610431,E,
+KEN,2021-12-01,2021-12-31,114,'404,Kenya,23014,Food price inflation,7012,December,2021,2021,%,8.855121,E,
